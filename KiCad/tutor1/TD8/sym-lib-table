@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name myLib)(type Legacy)(uri C:/Users/awaaw/Documents/KiCad/tutor1/TD8/myLib.lib)(options "")(descr ""))
+  (lib (name TD8-rescue)(type Legacy)(uri ${KIPRJMOD}/TD8-rescue.lib)(options "")(descr ""))
+)
