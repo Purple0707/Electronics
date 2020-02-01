@@ -1,0 +1,3020 @@
+EESchema Schematic File Version 4
+LIBS:TD8-cache
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 4 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1600 10700 1200 10700
+Wire Wire Line
+	1600 10500 1200 10500
+Wire Wire Line
+	1600 10400 1200 10400
+Connection ~ 1500 11000
+Wire Wire Line
+	1500 11000 1600 11000
+Wire Wire Line
+	1500 10900 1500 11000
+Wire Wire Line
+	1600 10900 1500 10900
+Wire Wire Line
+	17300 9700 17300 11400
+Wire Wire Line
+	2300 11400 17300 11400
+Wire Wire Line
+	15300 9700 15300 11300
+Wire Wire Line
+	2300 11300 15300 11300
+Wire Wire Line
+	13300 9700 13300 11200
+Wire Wire Line
+	2300 11200 13300 11200
+Wire Wire Line
+	11300 9700 11300 11100
+Wire Wire Line
+	2300 11100 11300 11100
+Wire Wire Line
+	9300 9700 9300 11000
+Wire Wire Line
+	2300 11000 9300 11000
+Wire Wire Line
+	7300 9700 7300 10900
+Wire Wire Line
+	2300 10900 7300 10900
+Wire Wire Line
+	5300 9700 5300 10800
+Wire Wire Line
+	2300 10800 5300 10800
+Wire Wire Line
+	2300 10700 3300 10700
+Wire Wire Line
+	2300 10600 3150 10600
+Wire Wire Line
+	15300 7200 15300 7800
+Wire Wire Line
+	3050 10500 3050 7800
+Wire Wire Line
+	2300 10500 3050 10500
+Wire Wire Line
+	2950 10400 2950 7700
+Wire Wire Line
+	11300 7600 11300 7200
+Wire Wire Line
+	9300 7500 9300 7200
+Wire Wire Line
+	2750 10200 2750 7500
+Wire Wire Line
+	2300 10200 2750 10200
+Wire Wire Line
+	7300 7200 7300 7400
+Wire Wire Line
+	2650 10100 2650 7400
+Wire Wire Line
+	2300 10100 2650 10100
+Wire Wire Line
+	5300 7300 5300 7200
+Wire Wire Line
+	2550 10000 2300 10000
+Wire Wire Line
+	2550 7300 2550 10000
+Wire Wire Line
+	2450 9900 2300 9900
+Wire Wire Line
+	2450 7200 2450 9900
+Wire Bus Line
+	19450 6300 20100 6300
+Wire Bus Line
+	19450 8350 19450 6300
+Entry Wire Line
+	17500 8350 17600 8450
+Entry Wire Line
+	17400 8350 17500 8450
+Entry Wire Line
+	17300 8350 17400 8450
+Entry Wire Line
+	17200 8350 17300 8450
+Entry Wire Line
+	17750 8350 17850 8450
+Entry Wire Line
+	17850 8350 17950 8450
+Entry Wire Line
+	17950 8350 18050 8450
+Entry Wire Line
+	18050 8350 18150 8450
+Entry Wire Line
+	18150 8350 18250 8450
+Entry Wire Line
+	18250 8350 18350 8450
+Entry Wire Line
+	18350 8350 18450 8450
+Entry Wire Line
+	18450 8350 18550 8450
+Entry Wire Line
+	15500 8350 15600 8450
+Entry Wire Line
+	15400 8350 15500 8450
+Entry Wire Line
+	15300 8350 15400 8450
+Entry Wire Line
+	15200 8350 15300 8450
+Entry Wire Line
+	15750 8350 15850 8450
+Entry Wire Line
+	15850 8350 15950 8450
+Entry Wire Line
+	15950 8350 16050 8450
+Entry Wire Line
+	16050 8350 16150 8450
+Entry Wire Line
+	16150 8350 16250 8450
+Entry Wire Line
+	16250 8350 16350 8450
+Entry Wire Line
+	16350 8350 16450 8450
+Entry Wire Line
+	16450 8350 16550 8450
+Entry Wire Line
+	13500 8350 13600 8450
+Entry Wire Line
+	13400 8350 13500 8450
+Entry Wire Line
+	13300 8350 13400 8450
+Entry Wire Line
+	13200 8350 13300 8450
+Entry Wire Line
+	13750 8350 13850 8450
+Entry Wire Line
+	13850 8350 13950 8450
+Entry Wire Line
+	13950 8350 14050 8450
+Entry Wire Line
+	14050 8350 14150 8450
+Entry Wire Line
+	14150 8350 14250 8450
+Entry Wire Line
+	14250 8350 14350 8450
+Entry Wire Line
+	14350 8350 14450 8450
+Entry Wire Line
+	14450 8350 14550 8450
+Entry Wire Line
+	11500 8350 11600 8450
+Entry Wire Line
+	11400 8350 11500 8450
+Entry Wire Line
+	11300 8350 11400 8450
+Entry Wire Line
+	11200 8350 11300 8450
+Entry Wire Line
+	11750 8350 11850 8450
+Entry Wire Line
+	11850 8350 11950 8450
+Entry Wire Line
+	11950 8350 12050 8450
+Entry Wire Line
+	12050 8350 12150 8450
+Entry Wire Line
+	12150 8350 12250 8450
+Entry Wire Line
+	12250 8350 12350 8450
+Entry Wire Line
+	12350 8350 12450 8450
+Entry Wire Line
+	12450 8350 12550 8450
+Entry Wire Line
+	9500 8350 9600 8450
+Entry Wire Line
+	9400 8350 9500 8450
+Entry Wire Line
+	9300 8350 9400 8450
+Entry Wire Line
+	9200 8350 9300 8450
+Entry Wire Line
+	9750 8350 9850 8450
+Entry Wire Line
+	9850 8350 9950 8450
+Entry Wire Line
+	9950 8350 10050 8450
+Entry Wire Line
+	10050 8350 10150 8450
+Entry Wire Line
+	10150 8350 10250 8450
+Entry Wire Line
+	10250 8350 10350 8450
+Entry Wire Line
+	10350 8350 10450 8450
+Entry Wire Line
+	10450 8350 10550 8450
+Entry Wire Line
+	7500 8350 7600 8450
+Entry Wire Line
+	7400 8350 7500 8450
+Entry Wire Line
+	7300 8350 7400 8450
+Entry Wire Line
+	7200 8350 7300 8450
+Entry Wire Line
+	7750 8350 7850 8450
+Entry Wire Line
+	7850 8350 7950 8450
+Entry Wire Line
+	7950 8350 8050 8450
+Entry Wire Line
+	8050 8350 8150 8450
+Entry Wire Line
+	8150 8350 8250 8450
+Entry Wire Line
+	8250 8350 8350 8450
+Entry Wire Line
+	8350 8350 8450 8450
+Entry Wire Line
+	8450 8350 8550 8450
+Entry Wire Line
+	5500 8350 5600 8450
+Entry Wire Line
+	5400 8350 5500 8450
+Entry Wire Line
+	5300 8350 5400 8450
+Entry Wire Line
+	5750 8350 5850 8450
+Entry Wire Line
+	5850 8350 5950 8450
+Entry Wire Line
+	5950 8350 6050 8450
+Entry Wire Line
+	6050 8350 6150 8450
+Entry Wire Line
+	6150 8350 6250 8450
+Entry Wire Line
+	6250 8350 6350 8450
+Entry Wire Line
+	6350 8350 6450 8450
+Entry Wire Line
+	6450 8350 6550 8450
+Entry Wire Line
+	17500 5850 17600 5950
+Entry Wire Line
+	17400 5850 17500 5950
+Entry Wire Line
+	17300 5850 17400 5950
+Entry Wire Line
+	17200 5850 17300 5950
+Entry Wire Line
+	17750 5850 17850 5950
+Entry Wire Line
+	17850 5850 17950 5950
+Entry Wire Line
+	17950 5850 18050 5950
+Entry Wire Line
+	18050 5850 18150 5950
+Entry Wire Line
+	18150 5850 18250 5950
+Entry Wire Line
+	18250 5850 18350 5950
+Entry Wire Line
+	18350 5850 18450 5950
+Entry Wire Line
+	18450 5850 18550 5950
+Entry Wire Line
+	15500 5850 15600 5950
+Entry Wire Line
+	15400 5850 15500 5950
+Entry Wire Line
+	15300 5850 15400 5950
+Entry Wire Line
+	15200 5850 15300 5950
+Entry Wire Line
+	15750 5850 15850 5950
+Entry Wire Line
+	15850 5850 15950 5950
+Entry Wire Line
+	15950 5850 16050 5950
+Entry Wire Line
+	16050 5850 16150 5950
+Entry Wire Line
+	16150 5850 16250 5950
+Entry Wire Line
+	16250 5850 16350 5950
+Entry Wire Line
+	16350 5850 16450 5950
+Entry Wire Line
+	16450 5850 16550 5950
+Entry Wire Line
+	11500 5850 11600 5950
+Entry Wire Line
+	11400 5850 11500 5950
+Entry Wire Line
+	11300 5850 11400 5950
+Entry Wire Line
+	11200 5850 11300 5950
+Entry Wire Line
+	11750 5850 11850 5950
+Entry Wire Line
+	11850 5850 11950 5950
+Entry Wire Line
+	11950 5850 12050 5950
+Entry Wire Line
+	12050 5850 12150 5950
+Entry Wire Line
+	12150 5850 12250 5950
+Entry Wire Line
+	12250 5850 12350 5950
+Entry Wire Line
+	12350 5850 12450 5950
+Entry Wire Line
+	12450 5850 12550 5950
+Entry Wire Line
+	9500 5850 9600 5950
+Entry Wire Line
+	9400 5850 9500 5950
+Entry Wire Line
+	9300 5850 9400 5950
+Entry Wire Line
+	9200 5850 9300 5950
+Entry Wire Line
+	9750 5850 9850 5950
+Entry Wire Line
+	9850 5850 9950 5950
+Entry Wire Line
+	9950 5850 10050 5950
+Entry Wire Line
+	10050 5850 10150 5950
+Entry Wire Line
+	10150 5850 10250 5950
+Entry Wire Line
+	10250 5850 10350 5950
+Entry Wire Line
+	10350 5850 10450 5950
+Entry Wire Line
+	10450 5850 10550 5950
+Entry Wire Line
+	7500 5850 7600 5950
+Entry Wire Line
+	7400 5850 7500 5950
+Entry Wire Line
+	7300 5850 7400 5950
+Entry Wire Line
+	7200 5850 7300 5950
+Entry Wire Line
+	7750 5850 7850 5950
+Entry Wire Line
+	7850 5850 7950 5950
+Entry Wire Line
+	7950 5850 8050 5950
+Entry Wire Line
+	8050 5850 8150 5950
+Entry Wire Line
+	8150 5850 8250 5950
+Entry Wire Line
+	8250 5850 8350 5950
+Entry Wire Line
+	8350 5850 8450 5950
+Entry Wire Line
+	8450 5850 8550 5950
+Entry Wire Line
+	3500 5850 3600 5950
+Entry Wire Line
+	3400 5850 3500 5950
+Entry Wire Line
+	3300 5850 3400 5950
+Entry Wire Line
+	3750 5850 3850 5950
+Entry Wire Line
+	3850 5850 3950 5950
+Entry Wire Line
+	3950 5850 4050 5950
+Entry Wire Line
+	4050 5850 4150 5950
+Entry Wire Line
+	4150 5850 4250 5950
+Entry Wire Line
+	4250 5850 4350 5950
+Entry Wire Line
+	4350 5850 4450 5950
+Entry Wire Line
+	4450 5850 4550 5950
+$Comp
+L power:GND #PWR?
+U 1 1 5FD3D044
+P 1500 11800
+AR Path="/5FD3D044" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D044" Ref="#PWR043"  Part="1" 
+F 0 "#PWR043" H 1500 11550 50  0001 C CNN
+F 1 "GND" H 1505 11627 50  0000 C CNN
+F 2 "" H 1500 11800 50  0001 C CNN
+F 3 "" H 1500 11800 50  0001 C CNN
+	1    1500 11800
+	1    0    0    -1  
+$EndComp
+$Comp
+L myLib:74HC154 U?
+U 1 1 5FD3D04A
+P 1950 10650
+AR Path="/5FD3D04A" Ref="U?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D04A" Ref="U20"  Part="1" 
+F 0 "U20" H 1950 11731 50  0000 C CNN
+F 1 "74HC154" H 1950 11640 50  0000 C CNN
+F 2 "Package_DIP:DIP-24_W10.16mm" H 2100 11500 50  0001 C CNN
+F 3 "" H 2100 11500 50  0001 C CNN
+	1    1950 10650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 11000 1500 11550
+Wire Wire Line
+	1950 11550 1500 11550
+Connection ~ 1500 11550
+Wire Wire Line
+	1500 11550 1500 11800
+$Comp
+L power:VCC #PWR?
+U 1 1 5FD3D054
+P 1950 9750
+AR Path="/5FD3D054" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D054" Ref="#PWR041"  Part="1" 
+F 0 "#PWR041" H 1950 9600 50  0001 C CNN
+F 1 "VCC" H 1967 9923 50  0000 C CNN
+F 2 "" H 1950 9750 50  0001 C CNN
+F 3 "" H 1950 9750 50  0001 C CNN
+	1    1950 9750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 9750 1950 10800
+Connection ~ 1950 9750
+Connection ~ 1950 11550
+$Comp
+L Device:C C?
+U 1 1 5FD3D05D
+P 1950 10950
+AR Path="/5FD3D05D" Ref="C?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D05D" Ref="C21"  Part="1" 
+F 0 "C21" H 2065 10996 50  0000 L CNN
+F 1 "0.1μ" H 2065 10905 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1988 10800 50  0001 C CNN
+F 3 "~" H 1950 10950 50  0001 C CNN
+	1    1950 10950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 11100 1950 11550
+Entry Wire Line
+	20100 9200 20200 9300
+Entry Wire Line
+	20100 9100 20200 9200
+Entry Wire Line
+	20100 9000 20200 9100
+Entry Wire Line
+	20100 8900 20200 9000
+Text Label 20200 9200 0    50   ~ 0
+D10
+Text Label 20200 9100 0    50   ~ 0
+D9
+Text Label 20200 9000 0    50   ~ 0
+D8
+Wire Wire Line
+	20200 9200 20300 9200
+Wire Wire Line
+	20200 9100 20300 9100
+Wire Wire Line
+	20200 9000 20300 9000
+$Comp
+L CD74HCxx:CD74HC540 U?
+U 1 1 5FD3D06E
+P 20700 9500
+AR Path="/601A60D3/5FD3D06E" Ref="U?"  Part="1" 
+AR Path="/5FD3D06E" Ref="U?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D06E" Ref="U19"  Part="1" 
+F 0 "U19" H 20700 10225 50  0000 C CNN
+F 1 "CD74HC540" H 20700 10134 50  0000 C CNN
+F 2 "myFootprint:myDIP_20" H 20700 9500 50  0001 C CNN
+F 3 "" H 20700 9500 50  0000 C CNN
+	1    20700 9500
+	1    0    0    -1  
+$EndComp
+Connection ~ 20700 10000
+Wire Wire Line
+	20700 10000 20700 10050
+Wire Wire Line
+	20700 9700 20700 10000
+Connection ~ 20700 9000
+Wire Wire Line
+	20200 7600 20300 7600
+Wire Wire Line
+	20200 7700 20300 7700
+Wire Wire Line
+	20200 7800 20300 7800
+Wire Wire Line
+	20200 7900 20300 7900
+Wire Wire Line
+	20200 8000 20300 8000
+Wire Wire Line
+	20200 8100 20300 8100
+Wire Wire Line
+	20200 8200 20300 8200
+Wire Wire Line
+	20200 8300 20300 8300
+Wire Wire Line
+	20200 9300 20300 9300
+Text Label 20200 7600 0    50   ~ 0
+D0
+Text Label 20200 7700 0    50   ~ 0
+D1
+Text Label 20200 7800 0    50   ~ 0
+D2
+Text Label 20200 7900 0    50   ~ 0
+D3
+Text Label 20200 8000 0    50   ~ 0
+D4
+Text Label 20200 8100 0    50   ~ 0
+D5
+Text Label 20200 8200 0    50   ~ 0
+D6
+Text Label 20200 8300 0    50   ~ 0
+D7
+Text Label 20200 9300 0    50   ~ 0
+D11
+Entry Wire Line
+	20100 7500 20200 7600
+Entry Wire Line
+	20100 7600 20200 7700
+Entry Wire Line
+	20100 7700 20200 7800
+Entry Wire Line
+	20100 7800 20200 7900
+Entry Wire Line
+	20100 7900 20200 8000
+Entry Wire Line
+	20100 8000 20200 8100
+Entry Wire Line
+	20100 8100 20200 8200
+Entry Wire Line
+	20100 8200 20200 8300
+NoConn ~ 21100 9400
+NoConn ~ 21100 9500
+NoConn ~ 21100 9600
+NoConn ~ 21100 9700
+$Comp
+L power:GND #PWR?
+U 1 1 5FD3D0A8
+P 19950 10050
+AR Path="/601A60D3/5FD3D0A8" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0A8" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D0A8" Ref="#PWR042"  Part="1" 
+F 0 "#PWR042" H 19950 9800 50  0001 C CNN
+F 1 "GND" H 19955 9877 50  0000 C CNN
+F 2 "" H 19950 10050 50  0001 C CNN
+F 3 "" H 19950 10050 50  0001 C CNN
+	1    19950 10050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20300 10000 19950 10000
+Wire Wire Line
+	19950 10000 19950 10050
+Wire Wire Line
+	20300 9900 19950 9900
+Wire Wire Line
+	19950 9900 19950 10000
+Connection ~ 19950 10000
+Wire Wire Line
+	20300 9700 19950 9700
+Connection ~ 19950 9900
+Wire Wire Line
+	20300 9600 19950 9600
+Wire Wire Line
+	19950 9600 19950 9700
+Connection ~ 19950 9700
+Wire Wire Line
+	19950 9700 19950 9900
+Wire Wire Line
+	20300 9500 19950 9500
+Wire Wire Line
+	19950 9500 19950 9600
+Connection ~ 19950 9600
+Wire Wire Line
+	20300 9400 19950 9400
+Wire Wire Line
+	19950 9400 19950 9500
+Connection ~ 19950 9500
+Wire Wire Line
+	20300 8600 19950 8600
+Wire Wire Line
+	19950 8600 19950 8800
+Connection ~ 19950 9400
+Wire Wire Line
+	20300 8500 19950 8500
+Wire Wire Line
+	19950 8500 19950 8600
+Connection ~ 19950 8600
+$Comp
+L power:VCC #PWR?
+U 1 1 5FD3D0C5
+P 20700 7550
+AR Path="/601A60D3/5FD3D0C5" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0C5" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D0C5" Ref="#PWR039"  Part="1" 
+F 0 "#PWR039" H 20700 7400 50  0001 C CNN
+F 1 "VCC" H 20717 7723 50  0000 C CNN
+F 2 "" H 20700 7550 50  0001 C CNN
+F 3 "" H 20700 7550 50  0001 C CNN
+	1    20700 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FD3D0CE
+P 20700 8100
+AR Path="/601A60D3/5FD3D0CE" Ref="C?"  Part="1" 
+AR Path="/5FD3D0CE" Ref="C?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D0CE" Ref="C19"  Part="1" 
+F 0 "C19" H 20815 8146 50  0000 L CNN
+F 1 "0.1μ" H 20815 8055 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 20738 7950 50  0001 C CNN
+F 3 "~" H 20700 8100 50  0001 C CNN
+	1    20700 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5FD3D0D5
+P 20700 9000
+AR Path="/601A60D3/5FD3D0D5" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0D5" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D0D5" Ref="#PWR040"  Part="1" 
+F 0 "#PWR040" H 20700 8850 50  0001 C CNN
+F 1 "VCC" H 20717 9173 50  0000 C CNN
+F 2 "" H 20700 9000 50  0001 C CNN
+F 3 "" H 20700 9000 50  0001 C CNN
+	1    20700 9000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20700 9000 20700 9400
+$Comp
+L Device:C C?
+U 1 1 5FD3D0DC
+P 20700 9550
+AR Path="/601A60D3/5FD3D0DC" Ref="C?"  Part="1" 
+AR Path="/5FD3D0DC" Ref="C?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D0DC" Ref="C20"  Part="1" 
+F 0 "C20" H 20815 9596 50  0000 L CNN
+F 1 "0.1μ" H 20815 9505 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 20738 9400 50  0001 C CNN
+F 3 "~" H 20700 9550 50  0001 C CNN
+	1    20700 9550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20700 8800 19950 8800
+Connection ~ 19950 8800
+Wire Wire Line
+	19950 8800 19950 9400
+Wire Wire Line
+	20700 10050 19950 10050
+Connection ~ 19950 10050
+Connection ~ 20100 6300
+Connection ~ 22050 7050
+Wire Wire Line
+	22050 7150 22050 7050
+Wire Wire Line
+	21250 7150 22050 7150
+Connection ~ 22050 6950
+Wire Wire Line
+	22050 7050 22050 6950
+Wire Wire Line
+	21750 7050 22050 7050
+Connection ~ 22050 6850
+Wire Wire Line
+	22050 6950 22050 6850
+Wire Wire Line
+	21250 6950 22050 6950
+Wire Wire Line
+	22050 6750 22050 6850
+Connection ~ 22050 6750
+Wire Wire Line
+	22050 6650 22050 6750
+Wire Wire Line
+	21750 6850 22050 6850
+Connection ~ 22050 6650
+Wire Wire Line
+	21250 6750 22050 6750
+Connection ~ 22050 6550
+Wire Wire Line
+	22050 6650 22050 6550
+Wire Wire Line
+	21750 6650 22050 6650
+Wire Wire Line
+	22050 6450 22050 6550
+Connection ~ 22050 6450
+Wire Wire Line
+	22050 6350 22050 6450
+Wire Wire Line
+	21250 6550 22050 6550
+Connection ~ 22050 6350
+Wire Wire Line
+	21750 6450 22050 6450
+Wire Wire Line
+	22050 6250 22050 6350
+Connection ~ 22050 6250
+Wire Wire Line
+	22050 6150 22050 6250
+Wire Wire Line
+	21250 6350 22050 6350
+Connection ~ 22050 6150
+Wire Wire Line
+	21750 6250 22050 6250
+Connection ~ 22050 6050
+Wire Wire Line
+	22050 6150 22050 6050
+Wire Wire Line
+	21250 6150 22050 6150
+Wire Wire Line
+	22050 6050 21750 6050
+Wire Wire Line
+	22050 5750 22050 6050
+$Comp
+L power:VCC #PWR?
+U 1 1 5FD3D10D
+P 22050 5750
+AR Path="/601A60D3/5FD3D10D" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D10D" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D10D" Ref="#PWR038"  Part="1" 
+F 0 "#PWR038" H 22050 5600 50  0001 C CNN
+F 1 "VCC" H 22067 5923 50  0000 C CNN
+F 2 "" H 22050 5750 50  0001 C CNN
+F 3 "" H 22050 5750 50  0001 C CNN
+	1    22050 5750
+	1    0    0    -1  
+$EndComp
+Wire Bus Line
+	20750 7050 20100 7050
+Entry Wire Line
+	20750 7050 20850 7150
+Entry Wire Line
+	20750 6950 20850 7050
+Entry Wire Line
+	20750 6850 20850 6950
+Entry Wire Line
+	20750 6750 20850 6850
+Entry Wire Line
+	20750 6650 20850 6750
+Entry Wire Line
+	20750 6550 20850 6650
+Entry Wire Line
+	20750 6450 20850 6550
+Entry Wire Line
+	20750 6350 20850 6450
+Entry Wire Line
+	20750 6250 20850 6350
+Entry Wire Line
+	20750 6150 20850 6250
+Entry Wire Line
+	20750 6050 20850 6150
+Entry Wire Line
+	20750 5950 20850 6050
+Text Label 20850 7150 0    50   ~ 0
+D11
+Text Label 20850 7050 0    50   ~ 0
+D10
+Text Label 20850 6950 0    50   ~ 0
+D9
+Text Label 20850 6850 0    50   ~ 0
+D8
+Text Label 20850 6750 0    50   ~ 0
+D7
+Text Label 20850 6650 0    50   ~ 0
+D6
+Text Label 20850 6550 0    50   ~ 0
+D5
+Text Label 20850 6450 0    50   ~ 0
+D4
+Text Label 20850 6350 0    50   ~ 0
+D3
+Text Label 20850 6250 0    50   ~ 0
+D2
+Text Label 20850 6150 0    50   ~ 0
+D1
+Text Label 20850 6050 0    50   ~ 0
+D0
+Wire Wire Line
+	20850 6050 21450 6050
+Wire Wire Line
+	20850 6150 20950 6150
+Wire Wire Line
+	20850 6250 21450 6250
+Wire Wire Line
+	20850 6350 20950 6350
+Wire Wire Line
+	20850 6450 21450 6450
+Wire Wire Line
+	20850 6550 20950 6550
+Wire Wire Line
+	20850 6650 21450 6650
+Wire Wire Line
+	20850 6750 20950 6750
+Wire Wire Line
+	20850 6850 21450 6850
+Wire Wire Line
+	20850 6950 20950 6950
+Wire Wire Line
+	20850 7050 21450 7050
+Wire Wire Line
+	20850 7150 20950 7150
+$Comp
+L Device:R R?
+U 1 1 5FD3D138
+P 21600 6050
+AR Path="/601A60D3/5FD3D138" Ref="R?"  Part="1" 
+AR Path="/5FD3D138" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D138" Ref="R2"  Part="1" 
+F 0 "R2" V 21550 6300 50  0000 C CNN
+F 1 "10K" V 21650 6300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6050 50  0001 C CNN
+F 3 "~" H 21600 6050 50  0001 C CNN
+	1    21600 6050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D13E
+P 21100 6150
+AR Path="/601A60D3/5FD3D13E" Ref="R?"  Part="1" 
+AR Path="/5FD3D13E" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D13E" Ref="R3"  Part="1" 
+F 0 "R3" V 21050 6400 50  0000 C CNN
+F 1 "10K" V 21150 6400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6150 50  0001 C CNN
+F 3 "~" H 21100 6150 50  0001 C CNN
+	1    21100 6150
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D144
+P 21600 6250
+AR Path="/601A60D3/5FD3D144" Ref="R?"  Part="1" 
+AR Path="/5FD3D144" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D144" Ref="R4"  Part="1" 
+F 0 "R4" V 21550 6500 50  0000 C CNN
+F 1 "10K" V 21650 6500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6250 50  0001 C CNN
+F 3 "~" H 21600 6250 50  0001 C CNN
+	1    21600 6250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D14A
+P 21600 6450
+AR Path="/601A60D3/5FD3D14A" Ref="R?"  Part="1" 
+AR Path="/5FD3D14A" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D14A" Ref="R6"  Part="1" 
+F 0 "R6" V 21550 6700 50  0000 C CNN
+F 1 "10K" V 21650 6700 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6450 50  0001 C CNN
+F 3 "~" H 21600 6450 50  0001 C CNN
+	1    21600 6450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D150
+P 21600 6650
+AR Path="/601A60D3/5FD3D150" Ref="R?"  Part="1" 
+AR Path="/5FD3D150" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D150" Ref="R8"  Part="1" 
+F 0 "R8" V 21550 6900 50  0000 C CNN
+F 1 "10K" V 21650 6900 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6650 50  0001 C CNN
+F 3 "~" H 21600 6650 50  0001 C CNN
+	1    21600 6650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D156
+P 21600 6850
+AR Path="/601A60D3/5FD3D156" Ref="R?"  Part="1" 
+AR Path="/5FD3D156" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D156" Ref="R10"  Part="1" 
+F 0 "R10" V 21550 7100 50  0000 C CNN
+F 1 "10K" V 21650 7100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6850 50  0001 C CNN
+F 3 "~" H 21600 6850 50  0001 C CNN
+	1    21600 6850
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D15C
+P 21600 7050
+AR Path="/601A60D3/5FD3D15C" Ref="R?"  Part="1" 
+AR Path="/5FD3D15C" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D15C" Ref="R12"  Part="1" 
+F 0 "R12" V 21550 7300 50  0000 C CNN
+F 1 "10K" V 21650 7300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 7050 50  0001 C CNN
+F 3 "~" H 21600 7050 50  0001 C CNN
+	1    21600 7050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D162
+P 21100 6350
+AR Path="/601A60D3/5FD3D162" Ref="R?"  Part="1" 
+AR Path="/5FD3D162" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D162" Ref="R5"  Part="1" 
+F 0 "R5" V 21050 6600 50  0000 C CNN
+F 1 "10K" V 21150 6600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6350 50  0001 C CNN
+F 3 "~" H 21100 6350 50  0001 C CNN
+	1    21100 6350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D168
+P 21100 6550
+AR Path="/601A60D3/5FD3D168" Ref="R?"  Part="1" 
+AR Path="/5FD3D168" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D168" Ref="R7"  Part="1" 
+F 0 "R7" V 21050 6800 50  0000 C CNN
+F 1 "10K" V 21150 6800 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6550 50  0001 C CNN
+F 3 "~" H 21100 6550 50  0001 C CNN
+	1    21100 6550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D16E
+P 21100 6750
+AR Path="/601A60D3/5FD3D16E" Ref="R?"  Part="1" 
+AR Path="/5FD3D16E" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D16E" Ref="R9"  Part="1" 
+F 0 "R9" V 21050 7000 50  0000 C CNN
+F 1 "10K" V 21150 7000 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6750 50  0001 C CNN
+F 3 "~" H 21100 6750 50  0001 C CNN
+	1    21100 6750
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D174
+P 21100 6950
+AR Path="/601A60D3/5FD3D174" Ref="R?"  Part="1" 
+AR Path="/5FD3D174" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D174" Ref="R11"  Part="1" 
+F 0 "R11" V 21050 7200 50  0000 C CNN
+F 1 "10K" V 21150 7200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6950 50  0001 C CNN
+F 3 "~" H 21100 6950 50  0001 C CNN
+	1    21100 6950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FD3D17A
+P 21100 7150
+AR Path="/601A60D3/5FD3D17A" Ref="R?"  Part="1" 
+AR Path="/5FD3D17A" Ref="R?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D17A" Ref="R13"  Part="1" 
+F 0 "R13" V 21050 7400 50  0000 C CNN
+F 1 "10K" V 21150 7400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 7150 50  0001 C CNN
+F 3 "~" H 21100 7150 50  0001 C CNN
+	1    21100 7150
+	0    1    1    0   
+$EndComp
+Wire Bus Line
+	20100 6300 20100 7050
+Connection ~ 20100 7050
+Wire Bus Line
+	20100 5850 20100 6300
+Text GLabel 21100 7600 2    50   Input ~ 0
+DR0
+Wire Wire Line
+	20700 7600 20700 7950
+Wire Wire Line
+	20700 7550 20700 7600
+Connection ~ 20700 7600
+Wire Wire Line
+	20700 8600 20700 8800
+Wire Wire Line
+	20700 8250 20700 8600
+Connection ~ 20700 8600
+$Comp
+L CD74HCxx:CD74HC540 U?
+U 1 1 5FD3D084
+P 20700 8100
+AR Path="/601A60D3/5FD3D084" Ref="U?"  Part="1" 
+AR Path="/5FD3D084" Ref="U?"  Part="1" 
+AR Path="/5FCF36BF/5FD3D084" Ref="U18"  Part="1" 
+F 0 "U18" H 20700 8825 50  0000 C CNN
+F 1 "CD74HC540" H 20700 8734 50  0000 C CNN
+F 2 "myFootprint:myDIP_20" H 20700 8100 50  0001 C CNN
+F 3 "" H 20700 8100 50  0000 C CNN
+	1    20700 8100
+	1    0    0    -1  
+$EndComp
+Text GLabel 21100 7700 2    50   Input ~ 0
+DR1
+Text GLabel 21100 7800 2    50   Input ~ 0
+DR2
+Text GLabel 21100 7900 2    50   Input ~ 0
+DR3
+Text GLabel 21100 8000 2    50   Input ~ 0
+DR4
+Text GLabel 21100 8100 2    50   Input ~ 0
+DR5
+Text GLabel 21100 8200 2    50   Input ~ 0
+DR6
+Text GLabel 21100 8300 2    50   Input ~ 0
+DR7
+Text GLabel 21100 9000 2    50   Input ~ 0
+DR8
+Text GLabel 21100 9100 2    50   Input ~ 0
+DR9
+Text GLabel 21100 9200 2    50   Input ~ 0
+DR10
+Text GLabel 21100 9300 2    50   Input ~ 0
+DR11
+Wire Wire Line
+	1600 10600 1200 10600
+Text GLabel 1200 10400 0    50   Input ~ 0
+A0
+Text GLabel 1200 10500 0    50   Input ~ 0
+A1
+Text GLabel 1200 10600 0    50   Input ~ 0
+A2
+Text GLabel 1200 10700 0    50   Input ~ 0
+A3
+Wire Wire Line
+	2300 10300 2850 10300
+Wire Wire Line
+	2850 10300 2850 7600
+Wire Wire Line
+	2300 10400 2950 10400
+Entry Wire Line
+	4450 8350 4550 8450
+Entry Wire Line
+	4350 8350 4450 8450
+Entry Wire Line
+	4250 8350 4350 8450
+Entry Wire Line
+	4150 8350 4250 8450
+Entry Wire Line
+	4050 8350 4150 8450
+Entry Wire Line
+	3950 8350 4050 8450
+Entry Wire Line
+	3850 8350 3950 8450
+Entry Wire Line
+	3750 8350 3850 8450
+Entry Wire Line
+	3200 8350 3300 8450
+Entry Wire Line
+	3300 8350 3400 8450
+Entry Wire Line
+	3400 8350 3500 8450
+Entry Wire Line
+	3500 8350 3600 8450
+Entry Wire Line
+	5200 8350 5300 8450
+Wire Wire Line
+	2650 7400 7300 7400
+Wire Wire Line
+	2750 7500 9300 7500
+Wire Wire Line
+	2850 7600 11300 7600
+Wire Wire Line
+	2950 7700 13300 7700
+Wire Wire Line
+	3050 7800 15300 7800
+Wire Wire Line
+	3150 10600 3150 7900
+Wire Wire Line
+	3150 7900 17300 7900
+Wire Wire Line
+	3300 9700 3300 10700
+Entry Wire Line
+	3200 5850 3300 5950
+Wire Wire Line
+	5300 7300 2550 7300
+Wire Wire Line
+	2450 7200 3300 7200
+$Comp
+L myLib:TD8_Memory TM1
+U 1 1 61F3D9DA
+P 3200 6650
+F 0 "TM1" V 3296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 3205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 3200 6850 50  0001 C CNN
+F 3 "" H 3200 6850 50  0001 C CNN
+	1    3200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 5950 3300 6150
+Wire Wire Line
+	3400 5950 3400 6150
+Wire Wire Line
+	3500 5950 3500 6150
+Wire Wire Line
+	3600 6150 3600 5950
+Wire Wire Line
+	3850 5950 3850 6150
+Wire Wire Line
+	3950 5950 3950 6150
+Wire Wire Line
+	4050 5950 4050 6150
+Wire Wire Line
+	4150 5950 4150 6150
+Wire Wire Line
+	4250 5950 4250 6150
+Wire Wire Line
+	4350 5950 4350 6150
+Wire Wire Line
+	4450 5950 4450 6150
+Wire Wire Line
+	4550 5950 4550 6150
+Wire Wire Line
+	3300 7050 3300 7200
+Connection ~ 3300 7200
+Wire Wire Line
+	3300 7200 3400 7200
+Wire Wire Line
+	3400 7050 3400 7200
+Connection ~ 3400 7200
+Wire Wire Line
+	3400 7200 3500 7200
+Wire Wire Line
+	3500 7050 3500 7200
+Connection ~ 3500 7200
+Wire Wire Line
+	3500 7200 3600 7200
+Wire Wire Line
+	3600 7050 3600 7200
+Connection ~ 3600 7200
+Wire Wire Line
+	3600 7200 3850 7200
+Wire Wire Line
+	3850 7050 3850 7200
+Connection ~ 3850 7200
+Wire Wire Line
+	3850 7200 3950 7200
+Wire Wire Line
+	3950 7050 3950 7200
+Connection ~ 3950 7200
+Wire Wire Line
+	3950 7200 4050 7200
+Wire Wire Line
+	4050 7050 4050 7200
+Connection ~ 4050 7200
+Wire Wire Line
+	4050 7200 4150 7200
+Wire Wire Line
+	4150 7050 4150 7200
+Connection ~ 4150 7200
+Wire Wire Line
+	4150 7200 4250 7200
+Wire Wire Line
+	4250 7050 4250 7200
+Connection ~ 4250 7200
+Wire Wire Line
+	4250 7200 4350 7200
+Wire Wire Line
+	4350 7050 4350 7200
+Connection ~ 4350 7200
+Wire Wire Line
+	4450 7050 4450 7200
+Wire Wire Line
+	4350 7200 4450 7200
+Wire Wire Line
+	4450 7200 4550 7200
+Connection ~ 4450 7200
+Wire Wire Line
+	4550 7050 4550 7200
+Text Label 4550 5950 3    50   ~ 0
+D0
+Text Label 4450 5950 3    50   ~ 0
+D1
+Text Label 4350 5950 3    50   ~ 0
+D2
+Text Label 4250 5950 3    50   ~ 0
+D3
+Text Label 4150 5950 3    50   ~ 0
+D4
+Text Label 4050 5950 3    50   ~ 0
+D5
+Text Label 3950 5950 3    50   ~ 0
+D6
+Text Label 3850 5950 3    50   ~ 0
+D7
+Text Label 3600 5950 3    50   ~ 0
+D8
+Text Label 3500 5950 3    50   ~ 0
+D9
+Text Label 3400 5950 3    50   ~ 0
+D10
+Text Label 3300 5950 3    50   ~ 0
+D11
+Entry Wire Line
+	6450 5850 6550 5950
+Entry Wire Line
+	6350 5850 6450 5950
+Entry Wire Line
+	6250 5850 6350 5950
+Entry Wire Line
+	6150 5850 6250 5950
+Entry Wire Line
+	6050 5850 6150 5950
+Entry Wire Line
+	5950 5850 6050 5950
+Entry Wire Line
+	5850 5850 5950 5950
+Entry Wire Line
+	5750 5850 5850 5950
+Entry Wire Line
+	5200 5850 5300 5950
+Entry Wire Line
+	5300 5850 5400 5950
+Entry Wire Line
+	5400 5850 5500 5950
+Entry Wire Line
+	5500 5850 5600 5950
+Wire Wire Line
+	5300 7200 5400 7200
+$Comp
+L myLib:TD8_Memory TM2
+U 1 1 641159AF
+P 5200 6650
+F 0 "TM2" V 5296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 5205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 5200 6850 50  0001 C CNN
+F 3 "" H 5200 6850 50  0001 C CNN
+	1    5200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5300 5950 5300 6150
+Wire Wire Line
+	5400 5950 5400 6150
+Wire Wire Line
+	5500 5950 5500 6150
+Wire Wire Line
+	5600 6150 5600 5950
+Wire Wire Line
+	5850 5950 5850 6150
+Wire Wire Line
+	5950 5950 5950 6150
+Wire Wire Line
+	6050 5950 6050 6150
+Wire Wire Line
+	6150 5950 6150 6150
+Wire Wire Line
+	6250 5950 6250 6150
+Wire Wire Line
+	6350 5950 6350 6150
+Wire Wire Line
+	6450 5950 6450 6150
+Wire Wire Line
+	6550 5950 6550 6150
+Wire Wire Line
+	5300 7050 5300 7200
+Wire Wire Line
+	5400 7050 5400 7200
+Connection ~ 5400 7200
+Wire Wire Line
+	5400 7200 5500 7200
+Wire Wire Line
+	5500 7050 5500 7200
+Connection ~ 5500 7200
+Wire Wire Line
+	5500 7200 5600 7200
+Wire Wire Line
+	5600 7050 5600 7200
+Connection ~ 5600 7200
+Wire Wire Line
+	5600 7200 5850 7200
+Wire Wire Line
+	5850 7050 5850 7200
+Connection ~ 5850 7200
+Wire Wire Line
+	5850 7200 5950 7200
+Wire Wire Line
+	5950 7050 5950 7200
+Connection ~ 5950 7200
+Wire Wire Line
+	5950 7200 6050 7200
+Wire Wire Line
+	6050 7050 6050 7200
+Connection ~ 6050 7200
+Wire Wire Line
+	6050 7200 6150 7200
+Wire Wire Line
+	6150 7050 6150 7200
+Connection ~ 6150 7200
+Wire Wire Line
+	6150 7200 6250 7200
+Wire Wire Line
+	6250 7050 6250 7200
+Connection ~ 6250 7200
+Wire Wire Line
+	6250 7200 6350 7200
+Wire Wire Line
+	6350 7050 6350 7200
+Connection ~ 6350 7200
+Wire Wire Line
+	6450 7050 6450 7200
+Wire Wire Line
+	6350 7200 6450 7200
+Wire Wire Line
+	6450 7200 6550 7200
+Connection ~ 6450 7200
+Wire Wire Line
+	6550 7050 6550 7200
+Text Label 6550 5950 3    50   ~ 0
+D0
+Text Label 6450 5950 3    50   ~ 0
+D1
+Text Label 6350 5950 3    50   ~ 0
+D2
+Text Label 6250 5950 3    50   ~ 0
+D3
+Text Label 6150 5950 3    50   ~ 0
+D4
+Text Label 6050 5950 3    50   ~ 0
+D5
+Text Label 5950 5950 3    50   ~ 0
+D6
+Text Label 5850 5950 3    50   ~ 0
+D7
+Text Label 5600 5950 3    50   ~ 0
+D8
+Text Label 5500 5950 3    50   ~ 0
+D9
+Text Label 5400 5950 3    50   ~ 0
+D10
+Text Label 5300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	7300 7200 7400 7200
+$Comp
+L myLib:TD8_Memory TM3
+U 1 1 6435705B
+P 7200 6650
+F 0 "TM3" V 7296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 7205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 7200 6850 50  0001 C CNN
+F 3 "" H 7200 6850 50  0001 C CNN
+	1    7200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7300 5950 7300 6150
+Wire Wire Line
+	7400 5950 7400 6150
+Wire Wire Line
+	7500 5950 7500 6150
+Wire Wire Line
+	7600 6150 7600 5950
+Wire Wire Line
+	7850 5950 7850 6150
+Wire Wire Line
+	7950 5950 7950 6150
+Wire Wire Line
+	8050 5950 8050 6150
+Wire Wire Line
+	8150 5950 8150 6150
+Wire Wire Line
+	8250 5950 8250 6150
+Wire Wire Line
+	8350 5950 8350 6150
+Wire Wire Line
+	8450 5950 8450 6150
+Wire Wire Line
+	8550 5950 8550 6150
+Wire Wire Line
+	7300 7050 7300 7200
+Wire Wire Line
+	7400 7050 7400 7200
+Connection ~ 7400 7200
+Wire Wire Line
+	7400 7200 7500 7200
+Wire Wire Line
+	7500 7050 7500 7200
+Connection ~ 7500 7200
+Wire Wire Line
+	7500 7200 7600 7200
+Wire Wire Line
+	7600 7050 7600 7200
+Connection ~ 7600 7200
+Wire Wire Line
+	7600 7200 7850 7200
+Wire Wire Line
+	7850 7050 7850 7200
+Connection ~ 7850 7200
+Wire Wire Line
+	7850 7200 7950 7200
+Wire Wire Line
+	7950 7050 7950 7200
+Connection ~ 7950 7200
+Wire Wire Line
+	7950 7200 8050 7200
+Wire Wire Line
+	8050 7050 8050 7200
+Connection ~ 8050 7200
+Wire Wire Line
+	8050 7200 8150 7200
+Wire Wire Line
+	8150 7050 8150 7200
+Connection ~ 8150 7200
+Wire Wire Line
+	8150 7200 8250 7200
+Wire Wire Line
+	8250 7050 8250 7200
+Connection ~ 8250 7200
+Wire Wire Line
+	8250 7200 8350 7200
+Wire Wire Line
+	8350 7050 8350 7200
+Connection ~ 8350 7200
+Wire Wire Line
+	8450 7050 8450 7200
+Wire Wire Line
+	8350 7200 8450 7200
+Wire Wire Line
+	8450 7200 8550 7200
+Connection ~ 8450 7200
+Wire Wire Line
+	8550 7050 8550 7200
+Text Label 8550 5950 3    50   ~ 0
+D0
+Text Label 8450 5950 3    50   ~ 0
+D1
+Text Label 8350 5950 3    50   ~ 0
+D2
+Text Label 8250 5950 3    50   ~ 0
+D3
+Text Label 8150 5950 3    50   ~ 0
+D4
+Text Label 8050 5950 3    50   ~ 0
+D5
+Text Label 7950 5950 3    50   ~ 0
+D6
+Text Label 7850 5950 3    50   ~ 0
+D7
+Text Label 7600 5950 3    50   ~ 0
+D8
+Text Label 7500 5950 3    50   ~ 0
+D9
+Text Label 7400 5950 3    50   ~ 0
+D10
+Text Label 7300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	9300 7200 9400 7200
+$Comp
+L myLib:TD8_Memory TM4
+U 1 1 644D5C53
+P 9200 6650
+F 0 "TM4" V 9296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 9205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 9200 6850 50  0001 C CNN
+F 3 "" H 9200 6850 50  0001 C CNN
+	1    9200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9300 5950 9300 6150
+Wire Wire Line
+	9400 5950 9400 6150
+Wire Wire Line
+	9500 5950 9500 6150
+Wire Wire Line
+	9600 6150 9600 5950
+Wire Wire Line
+	9850 5950 9850 6150
+Wire Wire Line
+	9950 5950 9950 6150
+Wire Wire Line
+	10050 5950 10050 6150
+Wire Wire Line
+	10150 5950 10150 6150
+Wire Wire Line
+	10250 5950 10250 6150
+Wire Wire Line
+	10350 5950 10350 6150
+Wire Wire Line
+	10450 5950 10450 6150
+Wire Wire Line
+	10550 5950 10550 6150
+Wire Wire Line
+	9300 7050 9300 7200
+Wire Wire Line
+	9400 7050 9400 7200
+Connection ~ 9400 7200
+Wire Wire Line
+	9400 7200 9500 7200
+Wire Wire Line
+	9500 7050 9500 7200
+Connection ~ 9500 7200
+Wire Wire Line
+	9500 7200 9600 7200
+Wire Wire Line
+	9600 7050 9600 7200
+Connection ~ 9600 7200
+Wire Wire Line
+	9600 7200 9850 7200
+Wire Wire Line
+	9850 7050 9850 7200
+Connection ~ 9850 7200
+Wire Wire Line
+	9850 7200 9950 7200
+Wire Wire Line
+	9950 7050 9950 7200
+Connection ~ 9950 7200
+Wire Wire Line
+	9950 7200 10050 7200
+Wire Wire Line
+	10050 7050 10050 7200
+Connection ~ 10050 7200
+Wire Wire Line
+	10050 7200 10150 7200
+Wire Wire Line
+	10150 7050 10150 7200
+Connection ~ 10150 7200
+Wire Wire Line
+	10150 7200 10250 7200
+Wire Wire Line
+	10250 7050 10250 7200
+Connection ~ 10250 7200
+Wire Wire Line
+	10250 7200 10350 7200
+Wire Wire Line
+	10350 7050 10350 7200
+Connection ~ 10350 7200
+Wire Wire Line
+	10450 7050 10450 7200
+Wire Wire Line
+	10350 7200 10450 7200
+Wire Wire Line
+	10450 7200 10550 7200
+Connection ~ 10450 7200
+Wire Wire Line
+	10550 7050 10550 7200
+Text Label 10550 5950 3    50   ~ 0
+D0
+Text Label 10450 5950 3    50   ~ 0
+D1
+Text Label 10350 5950 3    50   ~ 0
+D2
+Text Label 10250 5950 3    50   ~ 0
+D3
+Text Label 10150 5950 3    50   ~ 0
+D4
+Text Label 10050 5950 3    50   ~ 0
+D5
+Text Label 9950 5950 3    50   ~ 0
+D6
+Text Label 9850 5950 3    50   ~ 0
+D7
+Text Label 9600 5950 3    50   ~ 0
+D8
+Text Label 9500 5950 3    50   ~ 0
+D9
+Text Label 9400 5950 3    50   ~ 0
+D10
+Text Label 9300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	11300 7200 11400 7200
+$Comp
+L myLib:TD8_Memory TM5
+U 1 1 6464A3FF
+P 11200 6650
+F 0 "TM5" V 11296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 11205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 11200 6850 50  0001 C CNN
+F 3 "" H 11200 6850 50  0001 C CNN
+	1    11200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11300 5950 11300 6150
+Wire Wire Line
+	11400 5950 11400 6150
+Wire Wire Line
+	11500 5950 11500 6150
+Wire Wire Line
+	11600 6150 11600 5950
+Wire Wire Line
+	11850 5950 11850 6150
+Wire Wire Line
+	11950 5950 11950 6150
+Wire Wire Line
+	12050 5950 12050 6150
+Wire Wire Line
+	12150 5950 12150 6150
+Wire Wire Line
+	12250 5950 12250 6150
+Wire Wire Line
+	12350 5950 12350 6150
+Wire Wire Line
+	12450 5950 12450 6150
+Wire Wire Line
+	12550 5950 12550 6150
+Wire Wire Line
+	11300 7050 11300 7200
+Wire Wire Line
+	11400 7050 11400 7200
+Connection ~ 11400 7200
+Wire Wire Line
+	11400 7200 11500 7200
+Wire Wire Line
+	11500 7050 11500 7200
+Connection ~ 11500 7200
+Wire Wire Line
+	11500 7200 11600 7200
+Wire Wire Line
+	11600 7050 11600 7200
+Connection ~ 11600 7200
+Wire Wire Line
+	11600 7200 11850 7200
+Wire Wire Line
+	11850 7050 11850 7200
+Connection ~ 11850 7200
+Wire Wire Line
+	11850 7200 11950 7200
+Wire Wire Line
+	11950 7050 11950 7200
+Connection ~ 11950 7200
+Wire Wire Line
+	11950 7200 12050 7200
+Wire Wire Line
+	12050 7050 12050 7200
+Connection ~ 12050 7200
+Wire Wire Line
+	12050 7200 12150 7200
+Wire Wire Line
+	12150 7050 12150 7200
+Connection ~ 12150 7200
+Wire Wire Line
+	12150 7200 12250 7200
+Wire Wire Line
+	12250 7050 12250 7200
+Connection ~ 12250 7200
+Wire Wire Line
+	12250 7200 12350 7200
+Wire Wire Line
+	12350 7050 12350 7200
+Connection ~ 12350 7200
+Wire Wire Line
+	12450 7050 12450 7200
+Wire Wire Line
+	12350 7200 12450 7200
+Wire Wire Line
+	12450 7200 12550 7200
+Connection ~ 12450 7200
+Wire Wire Line
+	12550 7050 12550 7200
+Text Label 12550 5950 3    50   ~ 0
+D0
+Text Label 12450 5950 3    50   ~ 0
+D1
+Text Label 12350 5950 3    50   ~ 0
+D2
+Text Label 12250 5950 3    50   ~ 0
+D3
+Text Label 12150 5950 3    50   ~ 0
+D4
+Text Label 12050 5950 3    50   ~ 0
+D5
+Text Label 11950 5950 3    50   ~ 0
+D6
+Text Label 11850 5950 3    50   ~ 0
+D7
+Text Label 11600 5950 3    50   ~ 0
+D8
+Text Label 11500 5950 3    50   ~ 0
+D9
+Text Label 11400 5950 3    50   ~ 0
+D10
+Text Label 11300 5950 3    50   ~ 0
+D11
+Entry Wire Line
+	14450 5850 14550 5950
+Entry Wire Line
+	14350 5850 14450 5950
+Entry Wire Line
+	14250 5850 14350 5950
+Entry Wire Line
+	14150 5850 14250 5950
+Entry Wire Line
+	14050 5850 14150 5950
+Entry Wire Line
+	13950 5850 14050 5950
+Entry Wire Line
+	13850 5850 13950 5950
+Entry Wire Line
+	13750 5850 13850 5950
+Entry Wire Line
+	13200 5850 13300 5950
+Entry Wire Line
+	13300 5850 13400 5950
+Entry Wire Line
+	13400 5850 13500 5950
+Entry Wire Line
+	13500 5850 13600 5950
+Wire Wire Line
+	13300 7200 13400 7200
+Wire Wire Line
+	13300 7200 13300 7700
+$Comp
+L myLib:TD8_Memory TM6
+U 1 1 649D003B
+P 13200 6650
+F 0 "TM6" V 13296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 13205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 13200 6850 50  0001 C CNN
+F 3 "" H 13200 6850 50  0001 C CNN
+	1    13200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13300 5950 13300 6150
+Wire Wire Line
+	13400 5950 13400 6150
+Wire Wire Line
+	13500 5950 13500 6150
+Wire Wire Line
+	13600 6150 13600 5950
+Wire Wire Line
+	13850 5950 13850 6150
+Wire Wire Line
+	13950 5950 13950 6150
+Wire Wire Line
+	14050 5950 14050 6150
+Wire Wire Line
+	14150 5950 14150 6150
+Wire Wire Line
+	14250 5950 14250 6150
+Wire Wire Line
+	14350 5950 14350 6150
+Wire Wire Line
+	14450 5950 14450 6150
+Wire Wire Line
+	14550 5950 14550 6150
+Wire Wire Line
+	13300 7050 13300 7200
+Wire Wire Line
+	13400 7050 13400 7200
+Connection ~ 13400 7200
+Wire Wire Line
+	13400 7200 13500 7200
+Wire Wire Line
+	13500 7050 13500 7200
+Connection ~ 13500 7200
+Wire Wire Line
+	13500 7200 13600 7200
+Wire Wire Line
+	13600 7050 13600 7200
+Connection ~ 13600 7200
+Wire Wire Line
+	13600 7200 13850 7200
+Wire Wire Line
+	13850 7050 13850 7200
+Connection ~ 13850 7200
+Wire Wire Line
+	13850 7200 13950 7200
+Wire Wire Line
+	13950 7050 13950 7200
+Connection ~ 13950 7200
+Wire Wire Line
+	13950 7200 14050 7200
+Wire Wire Line
+	14050 7050 14050 7200
+Connection ~ 14050 7200
+Wire Wire Line
+	14050 7200 14150 7200
+Wire Wire Line
+	14150 7050 14150 7200
+Connection ~ 14150 7200
+Wire Wire Line
+	14150 7200 14250 7200
+Wire Wire Line
+	14250 7050 14250 7200
+Connection ~ 14250 7200
+Wire Wire Line
+	14250 7200 14350 7200
+Wire Wire Line
+	14350 7050 14350 7200
+Connection ~ 14350 7200
+Wire Wire Line
+	14450 7050 14450 7200
+Wire Wire Line
+	14350 7200 14450 7200
+Wire Wire Line
+	14450 7200 14550 7200
+Connection ~ 14450 7200
+Wire Wire Line
+	14550 7050 14550 7200
+Text Label 14550 5950 3    50   ~ 0
+D0
+Text Label 14450 5950 3    50   ~ 0
+D1
+Text Label 14350 5950 3    50   ~ 0
+D2
+Text Label 14250 5950 3    50   ~ 0
+D3
+Text Label 14150 5950 3    50   ~ 0
+D4
+Text Label 14050 5950 3    50   ~ 0
+D5
+Text Label 13950 5950 3    50   ~ 0
+D6
+Text Label 13850 5950 3    50   ~ 0
+D7
+Text Label 13600 5950 3    50   ~ 0
+D8
+Text Label 13500 5950 3    50   ~ 0
+D9
+Text Label 13400 5950 3    50   ~ 0
+D10
+Text Label 13300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	15300 7200 15400 7200
+$Comp
+L myLib:TD8_Memory TM7
+U 1 1 64B2D862
+P 15200 6650
+F 0 "TM7" V 15296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 15205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 15200 6850 50  0001 C CNN
+F 3 "" H 15200 6850 50  0001 C CNN
+	1    15200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	15300 5950 15300 6150
+Wire Wire Line
+	15400 5950 15400 6150
+Wire Wire Line
+	15500 5950 15500 6150
+Wire Wire Line
+	15600 6150 15600 5950
+Wire Wire Line
+	15850 5950 15850 6150
+Wire Wire Line
+	15950 5950 15950 6150
+Wire Wire Line
+	16050 5950 16050 6150
+Wire Wire Line
+	16150 5950 16150 6150
+Wire Wire Line
+	16250 5950 16250 6150
+Wire Wire Line
+	16350 5950 16350 6150
+Wire Wire Line
+	16450 5950 16450 6150
+Wire Wire Line
+	16550 5950 16550 6150
+Wire Wire Line
+	15300 7050 15300 7200
+Wire Wire Line
+	15400 7050 15400 7200
+Connection ~ 15400 7200
+Wire Wire Line
+	15400 7200 15500 7200
+Wire Wire Line
+	15500 7050 15500 7200
+Connection ~ 15500 7200
+Wire Wire Line
+	15500 7200 15600 7200
+Wire Wire Line
+	15600 7050 15600 7200
+Connection ~ 15600 7200
+Wire Wire Line
+	15600 7200 15850 7200
+Wire Wire Line
+	15850 7050 15850 7200
+Connection ~ 15850 7200
+Wire Wire Line
+	15850 7200 15950 7200
+Wire Wire Line
+	15950 7050 15950 7200
+Connection ~ 15950 7200
+Wire Wire Line
+	15950 7200 16050 7200
+Wire Wire Line
+	16050 7050 16050 7200
+Connection ~ 16050 7200
+Wire Wire Line
+	16050 7200 16150 7200
+Wire Wire Line
+	16150 7050 16150 7200
+Connection ~ 16150 7200
+Wire Wire Line
+	16150 7200 16250 7200
+Wire Wire Line
+	16250 7050 16250 7200
+Connection ~ 16250 7200
+Wire Wire Line
+	16250 7200 16350 7200
+Wire Wire Line
+	16350 7050 16350 7200
+Connection ~ 16350 7200
+Wire Wire Line
+	16450 7050 16450 7200
+Wire Wire Line
+	16350 7200 16450 7200
+Wire Wire Line
+	16450 7200 16550 7200
+Connection ~ 16450 7200
+Wire Wire Line
+	16550 7050 16550 7200
+Text Label 16550 5950 3    50   ~ 0
+D0
+Text Label 16450 5950 3    50   ~ 0
+D1
+Text Label 16350 5950 3    50   ~ 0
+D2
+Text Label 16250 5950 3    50   ~ 0
+D3
+Text Label 16150 5950 3    50   ~ 0
+D4
+Text Label 16050 5950 3    50   ~ 0
+D5
+Text Label 15950 5950 3    50   ~ 0
+D6
+Text Label 15850 5950 3    50   ~ 0
+D7
+Text Label 15600 5950 3    50   ~ 0
+D8
+Text Label 15500 5950 3    50   ~ 0
+D9
+Text Label 15400 5950 3    50   ~ 0
+D10
+Text Label 15300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	17300 7900 17300 7200
+Wire Wire Line
+	17300 7200 17400 7200
+$Comp
+L myLib:TD8_Memory TM8
+U 1 1 64F0D1B6
+P 17200 6650
+F 0 "TM8" V 17296 5170 50  0000 R CNN
+F 1 "TD8_Memory" V 17205 5170 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 17200 6850 50  0001 C CNN
+F 3 "" H 17200 6850 50  0001 C CNN
+	1    17200 6650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	17300 5950 17300 6150
+Wire Wire Line
+	17400 5950 17400 6150
+Wire Wire Line
+	17500 5950 17500 6150
+Wire Wire Line
+	17600 6150 17600 5950
+Wire Wire Line
+	17850 5950 17850 6150
+Wire Wire Line
+	17950 5950 17950 6150
+Wire Wire Line
+	18050 5950 18050 6150
+Wire Wire Line
+	18150 5950 18150 6150
+Wire Wire Line
+	18250 5950 18250 6150
+Wire Wire Line
+	18350 5950 18350 6150
+Wire Wire Line
+	18450 5950 18450 6150
+Wire Wire Line
+	18550 5950 18550 6150
+Wire Wire Line
+	17300 7050 17300 7200
+Wire Wire Line
+	17400 7050 17400 7200
+Connection ~ 17400 7200
+Wire Wire Line
+	17400 7200 17500 7200
+Wire Wire Line
+	17500 7050 17500 7200
+Connection ~ 17500 7200
+Wire Wire Line
+	17500 7200 17600 7200
+Wire Wire Line
+	17600 7050 17600 7200
+Connection ~ 17600 7200
+Wire Wire Line
+	17600 7200 17850 7200
+Wire Wire Line
+	17850 7050 17850 7200
+Connection ~ 17850 7200
+Wire Wire Line
+	17850 7200 17950 7200
+Wire Wire Line
+	17950 7050 17950 7200
+Connection ~ 17950 7200
+Wire Wire Line
+	17950 7200 18050 7200
+Wire Wire Line
+	18050 7050 18050 7200
+Connection ~ 18050 7200
+Wire Wire Line
+	18050 7200 18150 7200
+Wire Wire Line
+	18150 7050 18150 7200
+Connection ~ 18150 7200
+Wire Wire Line
+	18150 7200 18250 7200
+Wire Wire Line
+	18250 7050 18250 7200
+Connection ~ 18250 7200
+Wire Wire Line
+	18250 7200 18350 7200
+Wire Wire Line
+	18350 7050 18350 7200
+Connection ~ 18350 7200
+Wire Wire Line
+	18450 7050 18450 7200
+Wire Wire Line
+	18350 7200 18450 7200
+Wire Wire Line
+	18450 7200 18550 7200
+Connection ~ 18450 7200
+Wire Wire Line
+	18550 7050 18550 7200
+Text Label 18550 5950 3    50   ~ 0
+D0
+Text Label 18450 5950 3    50   ~ 0
+D1
+Text Label 18350 5950 3    50   ~ 0
+D2
+Text Label 18250 5950 3    50   ~ 0
+D3
+Text Label 18150 5950 3    50   ~ 0
+D4
+Text Label 18050 5950 3    50   ~ 0
+D5
+Text Label 17950 5950 3    50   ~ 0
+D6
+Text Label 17850 5950 3    50   ~ 0
+D7
+Text Label 17600 5950 3    50   ~ 0
+D8
+Text Label 17500 5950 3    50   ~ 0
+D9
+Text Label 17400 5950 3    50   ~ 0
+D10
+Text Label 17300 5950 3    50   ~ 0
+D11
+Wire Wire Line
+	17300 9700 17400 9700
+$Comp
+L myLib:TD8_Memory TM16
+U 1 1 6504B681
+P 17200 9150
+F 0 "TM16" V 17296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 17205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 17200 9350 50  0001 C CNN
+F 3 "" H 17200 9350 50  0001 C CNN
+	1    17200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	17300 8450 17300 8650
+Wire Wire Line
+	17400 8450 17400 8650
+Wire Wire Line
+	17500 8450 17500 8650
+Wire Wire Line
+	17600 8650 17600 8450
+Wire Wire Line
+	17850 8450 17850 8650
+Wire Wire Line
+	17950 8450 17950 8650
+Wire Wire Line
+	18050 8450 18050 8650
+Wire Wire Line
+	18150 8450 18150 8650
+Wire Wire Line
+	18250 8450 18250 8650
+Wire Wire Line
+	18350 8450 18350 8650
+Wire Wire Line
+	18450 8450 18450 8650
+Wire Wire Line
+	18550 8450 18550 8650
+Wire Wire Line
+	17300 9550 17300 9700
+Wire Wire Line
+	17400 9550 17400 9700
+Connection ~ 17400 9700
+Wire Wire Line
+	17400 9700 17500 9700
+Wire Wire Line
+	17500 9550 17500 9700
+Connection ~ 17500 9700
+Wire Wire Line
+	17500 9700 17600 9700
+Wire Wire Line
+	17600 9550 17600 9700
+Connection ~ 17600 9700
+Wire Wire Line
+	17600 9700 17850 9700
+Wire Wire Line
+	17850 9550 17850 9700
+Connection ~ 17850 9700
+Wire Wire Line
+	17850 9700 17950 9700
+Wire Wire Line
+	17950 9550 17950 9700
+Connection ~ 17950 9700
+Wire Wire Line
+	17950 9700 18050 9700
+Wire Wire Line
+	18050 9550 18050 9700
+Connection ~ 18050 9700
+Wire Wire Line
+	18050 9700 18150 9700
+Wire Wire Line
+	18150 9550 18150 9700
+Connection ~ 18150 9700
+Wire Wire Line
+	18150 9700 18250 9700
+Wire Wire Line
+	18250 9550 18250 9700
+Connection ~ 18250 9700
+Wire Wire Line
+	18250 9700 18350 9700
+Wire Wire Line
+	18350 9550 18350 9700
+Connection ~ 18350 9700
+Wire Wire Line
+	18450 9550 18450 9700
+Wire Wire Line
+	18350 9700 18450 9700
+Wire Wire Line
+	18450 9700 18550 9700
+Connection ~ 18450 9700
+Wire Wire Line
+	18550 9550 18550 9700
+Text Label 18550 8450 3    50   ~ 0
+D0
+Text Label 18450 8450 3    50   ~ 0
+D1
+Text Label 18350 8450 3    50   ~ 0
+D2
+Text Label 18250 8450 3    50   ~ 0
+D3
+Text Label 18150 8450 3    50   ~ 0
+D4
+Text Label 18050 8450 3    50   ~ 0
+D5
+Text Label 17950 8450 3    50   ~ 0
+D6
+Text Label 17850 8450 3    50   ~ 0
+D7
+Text Label 17600 8450 3    50   ~ 0
+D8
+Text Label 17500 8450 3    50   ~ 0
+D9
+Text Label 17400 8450 3    50   ~ 0
+D10
+Text Label 17300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	15300 9700 15400 9700
+$Comp
+L myLib:TD8_Memory TM15
+U 1 1 6517536B
+P 15200 9150
+F 0 "TM15" V 15296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 15205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 15200 9350 50  0001 C CNN
+F 3 "" H 15200 9350 50  0001 C CNN
+	1    15200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	15300 8450 15300 8650
+Wire Wire Line
+	15400 8450 15400 8650
+Wire Wire Line
+	15500 8450 15500 8650
+Wire Wire Line
+	15600 8650 15600 8450
+Wire Wire Line
+	15850 8450 15850 8650
+Wire Wire Line
+	15950 8450 15950 8650
+Wire Wire Line
+	16050 8450 16050 8650
+Wire Wire Line
+	16150 8450 16150 8650
+Wire Wire Line
+	16250 8450 16250 8650
+Wire Wire Line
+	16350 8450 16350 8650
+Wire Wire Line
+	16450 8450 16450 8650
+Wire Wire Line
+	16550 8450 16550 8650
+Wire Wire Line
+	15300 9550 15300 9700
+Wire Wire Line
+	15400 9550 15400 9700
+Connection ~ 15400 9700
+Wire Wire Line
+	15400 9700 15500 9700
+Wire Wire Line
+	15500 9550 15500 9700
+Connection ~ 15500 9700
+Wire Wire Line
+	15500 9700 15600 9700
+Wire Wire Line
+	15600 9550 15600 9700
+Connection ~ 15600 9700
+Wire Wire Line
+	15600 9700 15850 9700
+Wire Wire Line
+	15850 9550 15850 9700
+Connection ~ 15850 9700
+Wire Wire Line
+	15850 9700 15950 9700
+Wire Wire Line
+	15950 9550 15950 9700
+Connection ~ 15950 9700
+Wire Wire Line
+	15950 9700 16050 9700
+Wire Wire Line
+	16050 9550 16050 9700
+Connection ~ 16050 9700
+Wire Wire Line
+	16050 9700 16150 9700
+Wire Wire Line
+	16150 9550 16150 9700
+Connection ~ 16150 9700
+Wire Wire Line
+	16150 9700 16250 9700
+Wire Wire Line
+	16250 9550 16250 9700
+Connection ~ 16250 9700
+Wire Wire Line
+	16250 9700 16350 9700
+Wire Wire Line
+	16350 9550 16350 9700
+Connection ~ 16350 9700
+Wire Wire Line
+	16450 9550 16450 9700
+Wire Wire Line
+	16350 9700 16450 9700
+Wire Wire Line
+	16450 9700 16550 9700
+Connection ~ 16450 9700
+Wire Wire Line
+	16550 9550 16550 9700
+Text Label 16550 8450 3    50   ~ 0
+D0
+Text Label 16450 8450 3    50   ~ 0
+D1
+Text Label 16350 8450 3    50   ~ 0
+D2
+Text Label 16250 8450 3    50   ~ 0
+D3
+Text Label 16150 8450 3    50   ~ 0
+D4
+Text Label 16050 8450 3    50   ~ 0
+D5
+Text Label 15950 8450 3    50   ~ 0
+D6
+Text Label 15850 8450 3    50   ~ 0
+D7
+Text Label 15600 8450 3    50   ~ 0
+D8
+Text Label 15500 8450 3    50   ~ 0
+D9
+Text Label 15400 8450 3    50   ~ 0
+D10
+Text Label 15300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	13300 9700 13400 9700
+$Comp
+L myLib:TD8_Memory TM14
+U 1 1 6528E9E4
+P 13200 9150
+F 0 "TM14" V 13296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 13205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 13200 9350 50  0001 C CNN
+F 3 "" H 13200 9350 50  0001 C CNN
+	1    13200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13300 8450 13300 8650
+Wire Wire Line
+	13400 8450 13400 8650
+Wire Wire Line
+	13500 8450 13500 8650
+Wire Wire Line
+	13600 8650 13600 8450
+Wire Wire Line
+	13850 8450 13850 8650
+Wire Wire Line
+	13950 8450 13950 8650
+Wire Wire Line
+	14050 8450 14050 8650
+Wire Wire Line
+	14150 8450 14150 8650
+Wire Wire Line
+	14250 8450 14250 8650
+Wire Wire Line
+	14350 8450 14350 8650
+Wire Wire Line
+	14450 8450 14450 8650
+Wire Wire Line
+	14550 8450 14550 8650
+Wire Wire Line
+	13300 9550 13300 9700
+Wire Wire Line
+	13400 9550 13400 9700
+Connection ~ 13400 9700
+Wire Wire Line
+	13400 9700 13500 9700
+Wire Wire Line
+	13500 9550 13500 9700
+Connection ~ 13500 9700
+Wire Wire Line
+	13500 9700 13600 9700
+Wire Wire Line
+	13600 9550 13600 9700
+Connection ~ 13600 9700
+Wire Wire Line
+	13600 9700 13850 9700
+Wire Wire Line
+	13850 9550 13850 9700
+Connection ~ 13850 9700
+Wire Wire Line
+	13850 9700 13950 9700
+Wire Wire Line
+	13950 9550 13950 9700
+Connection ~ 13950 9700
+Wire Wire Line
+	13950 9700 14050 9700
+Wire Wire Line
+	14050 9550 14050 9700
+Connection ~ 14050 9700
+Wire Wire Line
+	14050 9700 14150 9700
+Wire Wire Line
+	14150 9550 14150 9700
+Connection ~ 14150 9700
+Wire Wire Line
+	14150 9700 14250 9700
+Wire Wire Line
+	14250 9550 14250 9700
+Connection ~ 14250 9700
+Wire Wire Line
+	14250 9700 14350 9700
+Wire Wire Line
+	14350 9550 14350 9700
+Connection ~ 14350 9700
+Wire Wire Line
+	14450 9550 14450 9700
+Wire Wire Line
+	14350 9700 14450 9700
+Wire Wire Line
+	14450 9700 14550 9700
+Connection ~ 14450 9700
+Wire Wire Line
+	14550 9550 14550 9700
+Text Label 14550 8450 3    50   ~ 0
+D0
+Text Label 14450 8450 3    50   ~ 0
+D1
+Text Label 14350 8450 3    50   ~ 0
+D2
+Text Label 14250 8450 3    50   ~ 0
+D3
+Text Label 14150 8450 3    50   ~ 0
+D4
+Text Label 14050 8450 3    50   ~ 0
+D5
+Text Label 13950 8450 3    50   ~ 0
+D6
+Text Label 13850 8450 3    50   ~ 0
+D7
+Text Label 13600 8450 3    50   ~ 0
+D8
+Text Label 13500 8450 3    50   ~ 0
+D9
+Text Label 13400 8450 3    50   ~ 0
+D10
+Text Label 13300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	11300 9700 11400 9700
+$Comp
+L myLib:TD8_Memory TM13
+U 1 1 6542C676
+P 11200 9150
+F 0 "TM13" V 11296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 11205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 11200 9350 50  0001 C CNN
+F 3 "" H 11200 9350 50  0001 C CNN
+	1    11200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11300 8450 11300 8650
+Wire Wire Line
+	11400 8450 11400 8650
+Wire Wire Line
+	11500 8450 11500 8650
+Wire Wire Line
+	11600 8650 11600 8450
+Wire Wire Line
+	11850 8450 11850 8650
+Wire Wire Line
+	11950 8450 11950 8650
+Wire Wire Line
+	12050 8450 12050 8650
+Wire Wire Line
+	12150 8450 12150 8650
+Wire Wire Line
+	12250 8450 12250 8650
+Wire Wire Line
+	12350 8450 12350 8650
+Wire Wire Line
+	12450 8450 12450 8650
+Wire Wire Line
+	12550 8450 12550 8650
+Wire Wire Line
+	11300 9550 11300 9700
+Wire Wire Line
+	11400 9550 11400 9700
+Connection ~ 11400 9700
+Wire Wire Line
+	11400 9700 11500 9700
+Wire Wire Line
+	11500 9550 11500 9700
+Connection ~ 11500 9700
+Wire Wire Line
+	11500 9700 11600 9700
+Wire Wire Line
+	11600 9550 11600 9700
+Connection ~ 11600 9700
+Wire Wire Line
+	11600 9700 11850 9700
+Wire Wire Line
+	11850 9550 11850 9700
+Connection ~ 11850 9700
+Wire Wire Line
+	11850 9700 11950 9700
+Wire Wire Line
+	11950 9550 11950 9700
+Connection ~ 11950 9700
+Wire Wire Line
+	11950 9700 12050 9700
+Wire Wire Line
+	12050 9550 12050 9700
+Connection ~ 12050 9700
+Wire Wire Line
+	12050 9700 12150 9700
+Wire Wire Line
+	12150 9550 12150 9700
+Connection ~ 12150 9700
+Wire Wire Line
+	12150 9700 12250 9700
+Wire Wire Line
+	12250 9550 12250 9700
+Connection ~ 12250 9700
+Wire Wire Line
+	12250 9700 12350 9700
+Wire Wire Line
+	12350 9550 12350 9700
+Connection ~ 12350 9700
+Wire Wire Line
+	12450 9550 12450 9700
+Wire Wire Line
+	12350 9700 12450 9700
+Wire Wire Line
+	12450 9700 12550 9700
+Connection ~ 12450 9700
+Wire Wire Line
+	12550 9550 12550 9700
+Text Label 12550 8450 3    50   ~ 0
+D0
+Text Label 12450 8450 3    50   ~ 0
+D1
+Text Label 12350 8450 3    50   ~ 0
+D2
+Text Label 12250 8450 3    50   ~ 0
+D3
+Text Label 12150 8450 3    50   ~ 0
+D4
+Text Label 12050 8450 3    50   ~ 0
+D5
+Text Label 11950 8450 3    50   ~ 0
+D6
+Text Label 11850 8450 3    50   ~ 0
+D7
+Text Label 11600 8450 3    50   ~ 0
+D8
+Text Label 11500 8450 3    50   ~ 0
+D9
+Text Label 11400 8450 3    50   ~ 0
+D10
+Text Label 11300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	9300 9700 9400 9700
+$Comp
+L myLib:TD8_Memory TM12
+U 1 1 65534CE2
+P 9200 9150
+F 0 "TM12" V 9296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 9205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 9200 9350 50  0001 C CNN
+F 3 "" H 9200 9350 50  0001 C CNN
+	1    9200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9300 8450 9300 8650
+Wire Wire Line
+	9400 8450 9400 8650
+Wire Wire Line
+	9500 8450 9500 8650
+Wire Wire Line
+	9600 8650 9600 8450
+Wire Wire Line
+	9850 8450 9850 8650
+Wire Wire Line
+	9950 8450 9950 8650
+Wire Wire Line
+	10050 8450 10050 8650
+Wire Wire Line
+	10150 8450 10150 8650
+Wire Wire Line
+	10250 8450 10250 8650
+Wire Wire Line
+	10350 8450 10350 8650
+Wire Wire Line
+	10450 8450 10450 8650
+Wire Wire Line
+	10550 8450 10550 8650
+Wire Wire Line
+	9300 9550 9300 9700
+Wire Wire Line
+	9400 9550 9400 9700
+Connection ~ 9400 9700
+Wire Wire Line
+	9400 9700 9500 9700
+Wire Wire Line
+	9500 9550 9500 9700
+Connection ~ 9500 9700
+Wire Wire Line
+	9500 9700 9600 9700
+Wire Wire Line
+	9600 9550 9600 9700
+Connection ~ 9600 9700
+Wire Wire Line
+	9600 9700 9850 9700
+Wire Wire Line
+	9850 9550 9850 9700
+Connection ~ 9850 9700
+Wire Wire Line
+	9850 9700 9950 9700
+Wire Wire Line
+	9950 9550 9950 9700
+Connection ~ 9950 9700
+Wire Wire Line
+	9950 9700 10050 9700
+Wire Wire Line
+	10050 9550 10050 9700
+Connection ~ 10050 9700
+Wire Wire Line
+	10050 9700 10150 9700
+Wire Wire Line
+	10150 9550 10150 9700
+Connection ~ 10150 9700
+Wire Wire Line
+	10150 9700 10250 9700
+Wire Wire Line
+	10250 9550 10250 9700
+Connection ~ 10250 9700
+Wire Wire Line
+	10250 9700 10350 9700
+Wire Wire Line
+	10350 9550 10350 9700
+Connection ~ 10350 9700
+Wire Wire Line
+	10450 9550 10450 9700
+Wire Wire Line
+	10350 9700 10450 9700
+Wire Wire Line
+	10450 9700 10550 9700
+Connection ~ 10450 9700
+Wire Wire Line
+	10550 9550 10550 9700
+Text Label 10550 8450 3    50   ~ 0
+D0
+Text Label 10450 8450 3    50   ~ 0
+D1
+Text Label 10350 8450 3    50   ~ 0
+D2
+Text Label 10250 8450 3    50   ~ 0
+D3
+Text Label 10150 8450 3    50   ~ 0
+D4
+Text Label 10050 8450 3    50   ~ 0
+D5
+Text Label 9950 8450 3    50   ~ 0
+D6
+Text Label 9850 8450 3    50   ~ 0
+D7
+Text Label 9600 8450 3    50   ~ 0
+D8
+Text Label 9500 8450 3    50   ~ 0
+D9
+Text Label 9400 8450 3    50   ~ 0
+D10
+Text Label 9300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	7300 9700 7400 9700
+$Comp
+L myLib:TD8_Memory TM11
+U 1 1 6563C926
+P 7200 9150
+F 0 "TM11" V 7296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 7205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 7200 9350 50  0001 C CNN
+F 3 "" H 7200 9350 50  0001 C CNN
+	1    7200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7300 8450 7300 8650
+Wire Wire Line
+	7400 8450 7400 8650
+Wire Wire Line
+	7500 8450 7500 8650
+Wire Wire Line
+	7600 8650 7600 8450
+Wire Wire Line
+	7850 8450 7850 8650
+Wire Wire Line
+	7950 8450 7950 8650
+Wire Wire Line
+	8050 8450 8050 8650
+Wire Wire Line
+	8150 8450 8150 8650
+Wire Wire Line
+	8250 8450 8250 8650
+Wire Wire Line
+	8350 8450 8350 8650
+Wire Wire Line
+	8450 8450 8450 8650
+Wire Wire Line
+	8550 8450 8550 8650
+Wire Wire Line
+	7300 9550 7300 9700
+Wire Wire Line
+	7400 9550 7400 9700
+Connection ~ 7400 9700
+Wire Wire Line
+	7400 9700 7500 9700
+Wire Wire Line
+	7500 9550 7500 9700
+Connection ~ 7500 9700
+Wire Wire Line
+	7500 9700 7600 9700
+Wire Wire Line
+	7600 9550 7600 9700
+Connection ~ 7600 9700
+Wire Wire Line
+	7600 9700 7850 9700
+Wire Wire Line
+	7850 9550 7850 9700
+Connection ~ 7850 9700
+Wire Wire Line
+	7850 9700 7950 9700
+Wire Wire Line
+	7950 9550 7950 9700
+Connection ~ 7950 9700
+Wire Wire Line
+	7950 9700 8050 9700
+Wire Wire Line
+	8050 9550 8050 9700
+Connection ~ 8050 9700
+Wire Wire Line
+	8050 9700 8150 9700
+Wire Wire Line
+	8150 9550 8150 9700
+Connection ~ 8150 9700
+Wire Wire Line
+	8150 9700 8250 9700
+Wire Wire Line
+	8250 9550 8250 9700
+Connection ~ 8250 9700
+Wire Wire Line
+	8250 9700 8350 9700
+Wire Wire Line
+	8350 9550 8350 9700
+Connection ~ 8350 9700
+Wire Wire Line
+	8450 9550 8450 9700
+Wire Wire Line
+	8350 9700 8450 9700
+Wire Wire Line
+	8450 9700 8550 9700
+Connection ~ 8450 9700
+Wire Wire Line
+	8550 9550 8550 9700
+Text Label 8550 8450 3    50   ~ 0
+D0
+Text Label 8450 8450 3    50   ~ 0
+D1
+Text Label 8350 8450 3    50   ~ 0
+D2
+Text Label 8250 8450 3    50   ~ 0
+D3
+Text Label 8150 8450 3    50   ~ 0
+D4
+Text Label 8050 8450 3    50   ~ 0
+D5
+Text Label 7950 8450 3    50   ~ 0
+D6
+Text Label 7850 8450 3    50   ~ 0
+D7
+Text Label 7600 8450 3    50   ~ 0
+D8
+Text Label 7500 8450 3    50   ~ 0
+D9
+Text Label 7400 8450 3    50   ~ 0
+D10
+Text Label 7300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	5300 9700 5400 9700
+$Comp
+L myLib:TD8_Memory TM10
+U 1 1 657455B1
+P 5200 9150
+F 0 "TM10" V 5296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 5205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 5200 9350 50  0001 C CNN
+F 3 "" H 5200 9350 50  0001 C CNN
+	1    5200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5300 8450 5300 8650
+Wire Wire Line
+	5400 8450 5400 8650
+Wire Wire Line
+	5500 8450 5500 8650
+Wire Wire Line
+	5600 8650 5600 8450
+Wire Wire Line
+	5850 8450 5850 8650
+Wire Wire Line
+	5950 8450 5950 8650
+Wire Wire Line
+	6050 8450 6050 8650
+Wire Wire Line
+	6150 8450 6150 8650
+Wire Wire Line
+	6250 8450 6250 8650
+Wire Wire Line
+	6350 8450 6350 8650
+Wire Wire Line
+	6450 8450 6450 8650
+Wire Wire Line
+	6550 8450 6550 8650
+Wire Wire Line
+	5300 9550 5300 9700
+Wire Wire Line
+	5400 9550 5400 9700
+Connection ~ 5400 9700
+Wire Wire Line
+	5400 9700 5500 9700
+Wire Wire Line
+	5500 9550 5500 9700
+Connection ~ 5500 9700
+Wire Wire Line
+	5500 9700 5600 9700
+Wire Wire Line
+	5600 9550 5600 9700
+Connection ~ 5600 9700
+Wire Wire Line
+	5600 9700 5850 9700
+Wire Wire Line
+	5850 9550 5850 9700
+Connection ~ 5850 9700
+Wire Wire Line
+	5850 9700 5950 9700
+Wire Wire Line
+	5950 9550 5950 9700
+Connection ~ 5950 9700
+Wire Wire Line
+	5950 9700 6050 9700
+Wire Wire Line
+	6050 9550 6050 9700
+Connection ~ 6050 9700
+Wire Wire Line
+	6050 9700 6150 9700
+Wire Wire Line
+	6150 9550 6150 9700
+Connection ~ 6150 9700
+Wire Wire Line
+	6150 9700 6250 9700
+Wire Wire Line
+	6250 9550 6250 9700
+Connection ~ 6250 9700
+Wire Wire Line
+	6250 9700 6350 9700
+Wire Wire Line
+	6350 9550 6350 9700
+Connection ~ 6350 9700
+Wire Wire Line
+	6450 9550 6450 9700
+Wire Wire Line
+	6350 9700 6450 9700
+Wire Wire Line
+	6450 9700 6550 9700
+Connection ~ 6450 9700
+Wire Wire Line
+	6550 9550 6550 9700
+Text Label 6550 8450 3    50   ~ 0
+D0
+Text Label 6450 8450 3    50   ~ 0
+D1
+Text Label 6350 8450 3    50   ~ 0
+D2
+Text Label 6250 8450 3    50   ~ 0
+D3
+Text Label 6150 8450 3    50   ~ 0
+D4
+Text Label 6050 8450 3    50   ~ 0
+D5
+Text Label 5950 8450 3    50   ~ 0
+D6
+Text Label 5850 8450 3    50   ~ 0
+D7
+Text Label 5600 8450 3    50   ~ 0
+D8
+Text Label 5500 8450 3    50   ~ 0
+D9
+Text Label 5400 8450 3    50   ~ 0
+D10
+Text Label 5300 8450 3    50   ~ 0
+D11
+Wire Wire Line
+	3300 9700 3400 9700
+$Comp
+L myLib:TD8_Memory TM9
+U 1 1 65856366
+P 3200 9150
+F 0 "TM9" V 3296 7670 50  0000 R CNN
+F 1 "TD8_Memory" V 3205 7670 50  0000 R CNN
+F 2 "myFootprint:TD8_Memory" H 3200 9350 50  0001 C CNN
+F 3 "" H 3200 9350 50  0001 C CNN
+	1    3200 9150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 8450 3300 8650
+Wire Wire Line
+	3400 8450 3400 8650
+Wire Wire Line
+	3500 8450 3500 8650
+Wire Wire Line
+	3600 8650 3600 8450
+Wire Wire Line
+	3850 8450 3850 8650
+Wire Wire Line
+	3950 8450 3950 8650
+Wire Wire Line
+	4050 8450 4050 8650
+Wire Wire Line
+	4150 8450 4150 8650
+Wire Wire Line
+	4250 8450 4250 8650
+Wire Wire Line
+	4350 8450 4350 8650
+Wire Wire Line
+	4450 8450 4450 8650
+Wire Wire Line
+	4550 8450 4550 8650
+Wire Wire Line
+	3300 9550 3300 9700
+Wire Wire Line
+	3400 9550 3400 9700
+Connection ~ 3400 9700
+Wire Wire Line
+	3400 9700 3500 9700
+Wire Wire Line
+	3500 9550 3500 9700
+Connection ~ 3500 9700
+Wire Wire Line
+	3500 9700 3600 9700
+Wire Wire Line
+	3600 9550 3600 9700
+Connection ~ 3600 9700
+Wire Wire Line
+	3600 9700 3850 9700
+Wire Wire Line
+	3850 9550 3850 9700
+Connection ~ 3850 9700
+Wire Wire Line
+	3850 9700 3950 9700
+Wire Wire Line
+	3950 9550 3950 9700
+Connection ~ 3950 9700
+Wire Wire Line
+	3950 9700 4050 9700
+Wire Wire Line
+	4050 9550 4050 9700
+Connection ~ 4050 9700
+Wire Wire Line
+	4050 9700 4150 9700
+Wire Wire Line
+	4150 9550 4150 9700
+Connection ~ 4150 9700
+Wire Wire Line
+	4150 9700 4250 9700
+Wire Wire Line
+	4250 9550 4250 9700
+Connection ~ 4250 9700
+Wire Wire Line
+	4250 9700 4350 9700
+Wire Wire Line
+	4350 9550 4350 9700
+Connection ~ 4350 9700
+Wire Wire Line
+	4450 9550 4450 9700
+Wire Wire Line
+	4350 9700 4450 9700
+Wire Wire Line
+	4450 9700 4550 9700
+Connection ~ 4450 9700
+Wire Wire Line
+	4550 9550 4550 9700
+Text Label 4550 8450 3    50   ~ 0
+D0
+Text Label 4450 8450 3    50   ~ 0
+D1
+Text Label 4350 8450 3    50   ~ 0
+D2
+Text Label 4250 8450 3    50   ~ 0
+D3
+Text Label 4150 8450 3    50   ~ 0
+D4
+Text Label 4050 8450 3    50   ~ 0
+D5
+Text Label 3950 8450 3    50   ~ 0
+D6
+Text Label 3850 8450 3    50   ~ 0
+D7
+Text Label 3600 8450 3    50   ~ 0
+D8
+Text Label 3500 8450 3    50   ~ 0
+D9
+Text Label 3400 8450 3    50   ~ 0
+D10
+Text Label 3300 8450 3    50   ~ 0
+D11
+Wire Bus Line
+	20100 7050 20100 9200
+Wire Bus Line
+	20750 5950 20750 7050
+Wire Bus Line
+	3200 5850 20100 5850
+Wire Bus Line
+	3200 8350 19450 8350
+$EndSCHEMATC
