@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:TD8-cache
 EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
-Sheet 4 5
+Sheet 1 1
 Title ""
 Date ""
 Rev ""
@@ -404,12 +403,12 @@ Entry Wire Line
 Entry Wire Line
 	4450 5850 4550 5950
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5FD3D044
 P 1500 11800
-AR Path="/5FD3D044" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D044" Ref="#PWR0101"  Part="1" 
 AR Path="/5FCF36BF/5FD3D044" Ref="#PWR043"  Part="1" 
-F 0 "#PWR043" H 1500 11550 50  0001 C CNN
+F 0 "#PWR0101" H 1500 11550 50  0001 C CNN
 F 1 "GND" H 1505 11627 50  0000 C CNN
 F 2 "" H 1500 11800 50  0001 C CNN
 F 3 "" H 1500 11800 50  0001 C CNN
@@ -417,12 +416,12 @@ F 3 "" H 1500 11800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:74HC154 U?
+L myLib:74HC154 U3
 U 1 1 5FD3D04A
 P 1950 10650
-AR Path="/5FD3D04A" Ref="U?"  Part="1" 
+AR Path="/5FD3D04A" Ref="U3"  Part="1" 
 AR Path="/5FCF36BF/5FD3D04A" Ref="U20"  Part="1" 
-F 0 "U20" H 1950 11731 50  0000 C CNN
+F 0 "U3" H 1950 11731 50  0000 C CNN
 F 1 "74HC154" H 1950 11640 50  0000 C CNN
 F 2 "Package_DIP:DIP-24_W10.16mm" H 2100 11500 50  0001 C CNN
 F 3 "" H 2100 11500 50  0001 C CNN
@@ -437,12 +436,12 @@ Connection ~ 1500 11550
 Wire Wire Line
 	1500 11550 1500 11800
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0102
 U 1 1 5FD3D054
 P 1950 9750
-AR Path="/5FD3D054" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D054" Ref="#PWR0102"  Part="1" 
 AR Path="/5FCF36BF/5FD3D054" Ref="#PWR041"  Part="1" 
-F 0 "#PWR041" H 1950 9600 50  0001 C CNN
+F 0 "#PWR0102" H 1950 9600 50  0001 C CNN
 F 1 "VCC" H 1967 9923 50  0000 C CNN
 F 2 "" H 1950 9750 50  0001 C CNN
 F 3 "" H 1950 9750 50  0001 C CNN
@@ -454,13 +453,13 @@ Wire Wire Line
 Connection ~ 1950 9750
 Connection ~ 1950 11550
 $Comp
-L Device:C C?
+L Device:C C3
 U 1 1 5FD3D05D
 P 1950 10950
-AR Path="/5FD3D05D" Ref="C?"  Part="1" 
+AR Path="/5FD3D05D" Ref="C3"  Part="1" 
 AR Path="/5FCF36BF/5FD3D05D" Ref="C21"  Part="1" 
-F 0 "C21" H 2065 10996 50  0000 L CNN
-F 1 "0.1μ" H 2065 10905 50  0000 L CNN
+F 0 "C3" H 2065 10996 50  0000 L CNN
+F 1 "0.1u" H 2065 10905 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1988 10800 50  0001 C CNN
 F 3 "~" H 1950 10950 50  0001 C CNN
 	1    1950 10950
@@ -493,9 +492,9 @@ L CD74HCxx:CD74HC540 U?
 U 1 1 5FD3D06E
 P 20700 9500
 AR Path="/601A60D3/5FD3D06E" Ref="U?"  Part="1" 
-AR Path="/5FD3D06E" Ref="U?"  Part="1" 
+AR Path="/5FD3D06E" Ref="U2"  Part="1" 
 AR Path="/5FCF36BF/5FD3D06E" Ref="U19"  Part="1" 
-F 0 "U19" H 20700 10225 50  0000 C CNN
+F 0 "U2" H 20700 10225 50  0000 C CNN
 F 1 "CD74HC540" H 20700 10134 50  0000 C CNN
 F 2 "myFootprint:myDIP_20" H 20700 9500 50  0001 C CNN
 F 3 "" H 20700 9500 50  0000 C CNN
@@ -569,9 +568,9 @@ L power:GND #PWR?
 U 1 1 5FD3D0A8
 P 19950 10050
 AR Path="/601A60D3/5FD3D0A8" Ref="#PWR?"  Part="1" 
-AR Path="/5FD3D0A8" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0A8" Ref="#PWR0103"  Part="1" 
 AR Path="/5FCF36BF/5FD3D0A8" Ref="#PWR042"  Part="1" 
-F 0 "#PWR042" H 19950 9800 50  0001 C CNN
+F 0 "#PWR0103" H 19950 9800 50  0001 C CNN
 F 1 "GND" H 19955 9877 50  0000 C CNN
 F 2 "" H 19950 10050 50  0001 C CNN
 F 3 "" H 19950 10050 50  0001 C CNN
@@ -622,9 +621,9 @@ L power:VCC #PWR?
 U 1 1 5FD3D0C5
 P 20700 7550
 AR Path="/601A60D3/5FD3D0C5" Ref="#PWR?"  Part="1" 
-AR Path="/5FD3D0C5" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0C5" Ref="#PWR0104"  Part="1" 
 AR Path="/5FCF36BF/5FD3D0C5" Ref="#PWR039"  Part="1" 
-F 0 "#PWR039" H 20700 7400 50  0001 C CNN
+F 0 "#PWR0104" H 20700 7400 50  0001 C CNN
 F 1 "VCC" H 20717 7723 50  0000 C CNN
 F 2 "" H 20700 7550 50  0001 C CNN
 F 3 "" H 20700 7550 50  0001 C CNN
@@ -636,10 +635,10 @@ L Device:C C?
 U 1 1 5FD3D0CE
 P 20700 8100
 AR Path="/601A60D3/5FD3D0CE" Ref="C?"  Part="1" 
-AR Path="/5FD3D0CE" Ref="C?"  Part="1" 
+AR Path="/5FD3D0CE" Ref="C1"  Part="1" 
 AR Path="/5FCF36BF/5FD3D0CE" Ref="C19"  Part="1" 
-F 0 "C19" H 20815 8146 50  0000 L CNN
-F 1 "0.1μ" H 20815 8055 50  0000 L CNN
+F 0 "C1" H 20815 8146 50  0000 L CNN
+F 1 "0.1u" H 20815 8055 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 20738 7950 50  0001 C CNN
 F 3 "~" H 20700 8100 50  0001 C CNN
 	1    20700 8100
@@ -650,9 +649,9 @@ L power:VCC #PWR?
 U 1 1 5FD3D0D5
 P 20700 9000
 AR Path="/601A60D3/5FD3D0D5" Ref="#PWR?"  Part="1" 
-AR Path="/5FD3D0D5" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D0D5" Ref="#PWR0105"  Part="1" 
 AR Path="/5FCF36BF/5FD3D0D5" Ref="#PWR040"  Part="1" 
-F 0 "#PWR040" H 20700 8850 50  0001 C CNN
+F 0 "#PWR0105" H 20700 8850 50  0001 C CNN
 F 1 "VCC" H 20717 9173 50  0000 C CNN
 F 2 "" H 20700 9000 50  0001 C CNN
 F 3 "" H 20700 9000 50  0001 C CNN
@@ -666,10 +665,10 @@ L Device:C C?
 U 1 1 5FD3D0DC
 P 20700 9550
 AR Path="/601A60D3/5FD3D0DC" Ref="C?"  Part="1" 
-AR Path="/5FD3D0DC" Ref="C?"  Part="1" 
+AR Path="/5FD3D0DC" Ref="C2"  Part="1" 
 AR Path="/5FCF36BF/5FD3D0DC" Ref="C20"  Part="1" 
-F 0 "C20" H 20815 9596 50  0000 L CNN
-F 1 "0.1μ" H 20815 9505 50  0000 L CNN
+F 0 "C2" H 20815 9596 50  0000 L CNN
+F 1 "0.1u" H 20815 9505 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 20738 9400 50  0001 C CNN
 F 3 "~" H 20700 9550 50  0001 C CNN
 	1    20700 9550
@@ -748,9 +747,9 @@ L power:VCC #PWR?
 U 1 1 5FD3D10D
 P 22050 5750
 AR Path="/601A60D3/5FD3D10D" Ref="#PWR?"  Part="1" 
-AR Path="/5FD3D10D" Ref="#PWR?"  Part="1" 
+AR Path="/5FD3D10D" Ref="#PWR0106"  Part="1" 
 AR Path="/5FCF36BF/5FD3D10D" Ref="#PWR038"  Part="1" 
-F 0 "#PWR038" H 22050 5600 50  0001 C CNN
+F 0 "#PWR0106" H 22050 5600 50  0001 C CNN
 F 1 "VCC" H 22067 5923 50  0000 C CNN
 F 2 "" H 22050 5750 50  0001 C CNN
 F 3 "" H 22050 5750 50  0001 C CNN
@@ -836,9 +835,9 @@ L Device:R R?
 U 1 1 5FD3D138
 P 21600 6050
 AR Path="/601A60D3/5FD3D138" Ref="R?"  Part="1" 
-AR Path="/5FD3D138" Ref="R?"  Part="1" 
+AR Path="/5FD3D138" Ref="R1"  Part="1" 
 AR Path="/5FCF36BF/5FD3D138" Ref="R2"  Part="1" 
-F 0 "R2" V 21550 6300 50  0000 C CNN
+F 0 "R1" V 21550 6300 50  0000 C CNN
 F 1 "10K" V 21650 6300 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6050 50  0001 C CNN
 F 3 "~" H 21600 6050 50  0001 C CNN
@@ -850,9 +849,9 @@ L Device:R R?
 U 1 1 5FD3D13E
 P 21100 6150
 AR Path="/601A60D3/5FD3D13E" Ref="R?"  Part="1" 
-AR Path="/5FD3D13E" Ref="R?"  Part="1" 
+AR Path="/5FD3D13E" Ref="R2"  Part="1" 
 AR Path="/5FCF36BF/5FD3D13E" Ref="R3"  Part="1" 
-F 0 "R3" V 21050 6400 50  0000 C CNN
+F 0 "R2" V 21050 6400 50  0000 C CNN
 F 1 "10K" V 21150 6400 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6150 50  0001 C CNN
 F 3 "~" H 21100 6150 50  0001 C CNN
@@ -864,9 +863,9 @@ L Device:R R?
 U 1 1 5FD3D144
 P 21600 6250
 AR Path="/601A60D3/5FD3D144" Ref="R?"  Part="1" 
-AR Path="/5FD3D144" Ref="R?"  Part="1" 
+AR Path="/5FD3D144" Ref="R3"  Part="1" 
 AR Path="/5FCF36BF/5FD3D144" Ref="R4"  Part="1" 
-F 0 "R4" V 21550 6500 50  0000 C CNN
+F 0 "R3" V 21550 6500 50  0000 C CNN
 F 1 "10K" V 21650 6500 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6250 50  0001 C CNN
 F 3 "~" H 21600 6250 50  0001 C CNN
@@ -878,9 +877,9 @@ L Device:R R?
 U 1 1 5FD3D14A
 P 21600 6450
 AR Path="/601A60D3/5FD3D14A" Ref="R?"  Part="1" 
-AR Path="/5FD3D14A" Ref="R?"  Part="1" 
+AR Path="/5FD3D14A" Ref="R5"  Part="1" 
 AR Path="/5FCF36BF/5FD3D14A" Ref="R6"  Part="1" 
-F 0 "R6" V 21550 6700 50  0000 C CNN
+F 0 "R5" V 21550 6700 50  0000 C CNN
 F 1 "10K" V 21650 6700 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6450 50  0001 C CNN
 F 3 "~" H 21600 6450 50  0001 C CNN
@@ -892,9 +891,9 @@ L Device:R R?
 U 1 1 5FD3D150
 P 21600 6650
 AR Path="/601A60D3/5FD3D150" Ref="R?"  Part="1" 
-AR Path="/5FD3D150" Ref="R?"  Part="1" 
+AR Path="/5FD3D150" Ref="R7"  Part="1" 
 AR Path="/5FCF36BF/5FD3D150" Ref="R8"  Part="1" 
-F 0 "R8" V 21550 6900 50  0000 C CNN
+F 0 "R7" V 21550 6900 50  0000 C CNN
 F 1 "10K" V 21650 6900 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6650 50  0001 C CNN
 F 3 "~" H 21600 6650 50  0001 C CNN
@@ -906,9 +905,9 @@ L Device:R R?
 U 1 1 5FD3D156
 P 21600 6850
 AR Path="/601A60D3/5FD3D156" Ref="R?"  Part="1" 
-AR Path="/5FD3D156" Ref="R?"  Part="1" 
+AR Path="/5FD3D156" Ref="R9"  Part="1" 
 AR Path="/5FCF36BF/5FD3D156" Ref="R10"  Part="1" 
-F 0 "R10" V 21550 7100 50  0000 C CNN
+F 0 "R9" V 21550 7100 50  0000 C CNN
 F 1 "10K" V 21650 7100 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 6850 50  0001 C CNN
 F 3 "~" H 21600 6850 50  0001 C CNN
@@ -920,9 +919,9 @@ L Device:R R?
 U 1 1 5FD3D15C
 P 21600 7050
 AR Path="/601A60D3/5FD3D15C" Ref="R?"  Part="1" 
-AR Path="/5FD3D15C" Ref="R?"  Part="1" 
+AR Path="/5FD3D15C" Ref="R11"  Part="1" 
 AR Path="/5FCF36BF/5FD3D15C" Ref="R12"  Part="1" 
-F 0 "R12" V 21550 7300 50  0000 C CNN
+F 0 "R11" V 21550 7300 50  0000 C CNN
 F 1 "10K" V 21650 7300 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21530 7050 50  0001 C CNN
 F 3 "~" H 21600 7050 50  0001 C CNN
@@ -934,9 +933,9 @@ L Device:R R?
 U 1 1 5FD3D162
 P 21100 6350
 AR Path="/601A60D3/5FD3D162" Ref="R?"  Part="1" 
-AR Path="/5FD3D162" Ref="R?"  Part="1" 
+AR Path="/5FD3D162" Ref="R4"  Part="1" 
 AR Path="/5FCF36BF/5FD3D162" Ref="R5"  Part="1" 
-F 0 "R5" V 21050 6600 50  0000 C CNN
+F 0 "R4" V 21050 6600 50  0000 C CNN
 F 1 "10K" V 21150 6600 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6350 50  0001 C CNN
 F 3 "~" H 21100 6350 50  0001 C CNN
@@ -948,9 +947,9 @@ L Device:R R?
 U 1 1 5FD3D168
 P 21100 6550
 AR Path="/601A60D3/5FD3D168" Ref="R?"  Part="1" 
-AR Path="/5FD3D168" Ref="R?"  Part="1" 
+AR Path="/5FD3D168" Ref="R6"  Part="1" 
 AR Path="/5FCF36BF/5FD3D168" Ref="R7"  Part="1" 
-F 0 "R7" V 21050 6800 50  0000 C CNN
+F 0 "R6" V 21050 6800 50  0000 C CNN
 F 1 "10K" V 21150 6800 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6550 50  0001 C CNN
 F 3 "~" H 21100 6550 50  0001 C CNN
@@ -962,9 +961,9 @@ L Device:R R?
 U 1 1 5FD3D16E
 P 21100 6750
 AR Path="/601A60D3/5FD3D16E" Ref="R?"  Part="1" 
-AR Path="/5FD3D16E" Ref="R?"  Part="1" 
+AR Path="/5FD3D16E" Ref="R8"  Part="1" 
 AR Path="/5FCF36BF/5FD3D16E" Ref="R9"  Part="1" 
-F 0 "R9" V 21050 7000 50  0000 C CNN
+F 0 "R8" V 21050 7000 50  0000 C CNN
 F 1 "10K" V 21150 7000 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6750 50  0001 C CNN
 F 3 "~" H 21100 6750 50  0001 C CNN
@@ -976,9 +975,9 @@ L Device:R R?
 U 1 1 5FD3D174
 P 21100 6950
 AR Path="/601A60D3/5FD3D174" Ref="R?"  Part="1" 
-AR Path="/5FD3D174" Ref="R?"  Part="1" 
+AR Path="/5FD3D174" Ref="R10"  Part="1" 
 AR Path="/5FCF36BF/5FD3D174" Ref="R11"  Part="1" 
-F 0 "R11" V 21050 7200 50  0000 C CNN
+F 0 "R10" V 21050 7200 50  0000 C CNN
 F 1 "10K" V 21150 7200 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 6950 50  0001 C CNN
 F 3 "~" H 21100 6950 50  0001 C CNN
@@ -990,9 +989,9 @@ L Device:R R?
 U 1 1 5FD3D17A
 P 21100 7150
 AR Path="/601A60D3/5FD3D17A" Ref="R?"  Part="1" 
-AR Path="/5FD3D17A" Ref="R?"  Part="1" 
+AR Path="/5FD3D17A" Ref="R12"  Part="1" 
 AR Path="/5FCF36BF/5FD3D17A" Ref="R13"  Part="1" 
-F 0 "R13" V 21050 7400 50  0000 C CNN
+F 0 "R12" V 21050 7400 50  0000 C CNN
 F 1 "10K" V 21150 7400 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 7150 50  0001 C CNN
 F 3 "~" H 21100 7150 50  0001 C CNN
@@ -1004,8 +1003,6 @@ Wire Bus Line
 Connection ~ 20100 7050
 Wire Bus Line
 	20100 5850 20100 6300
-Text GLabel 21100 7600 2    50   Input ~ 0
-DR0
 Wire Wire Line
 	20700 7600 20700 7950
 Wire Wire Line
@@ -1021,47 +1018,17 @@ L CD74HCxx:CD74HC540 U?
 U 1 1 5FD3D084
 P 20700 8100
 AR Path="/601A60D3/5FD3D084" Ref="U?"  Part="1" 
-AR Path="/5FD3D084" Ref="U?"  Part="1" 
+AR Path="/5FD3D084" Ref="U1"  Part="1" 
 AR Path="/5FCF36BF/5FD3D084" Ref="U18"  Part="1" 
-F 0 "U18" H 20700 8825 50  0000 C CNN
+F 0 "U1" H 20700 8825 50  0000 C CNN
 F 1 "CD74HC540" H 20700 8734 50  0000 C CNN
 F 2 "myFootprint:myDIP_20" H 20700 8100 50  0001 C CNN
 F 3 "" H 20700 8100 50  0000 C CNN
 	1    20700 8100
 	1    0    0    -1  
 $EndComp
-Text GLabel 21100 7700 2    50   Input ~ 0
-DR1
-Text GLabel 21100 7800 2    50   Input ~ 0
-DR2
-Text GLabel 21100 7900 2    50   Input ~ 0
-DR3
-Text GLabel 21100 8000 2    50   Input ~ 0
-DR4
-Text GLabel 21100 8100 2    50   Input ~ 0
-DR5
-Text GLabel 21100 8200 2    50   Input ~ 0
-DR6
-Text GLabel 21100 8300 2    50   Input ~ 0
-DR7
-Text GLabel 21100 9000 2    50   Input ~ 0
-DR8
-Text GLabel 21100 9100 2    50   Input ~ 0
-DR9
-Text GLabel 21100 9200 2    50   Input ~ 0
-DR10
-Text GLabel 21100 9300 2    50   Input ~ 0
-DR11
 Wire Wire Line
 	1600 10600 1200 10600
-Text GLabel 1200 10400 0    50   Input ~ 0
-A0
-Text GLabel 1200 10500 0    50   Input ~ 0
-A1
-Text GLabel 1200 10600 0    50   Input ~ 0
-A2
-Text GLabel 1200 10700 0    50   Input ~ 0
-A3
 Wire Wire Line
 	2300 10300 2850 10300
 Wire Wire Line
@@ -3009,6 +2976,103 @@ Text Label 3400 8450 3    50   ~ 0
 D10
 Text Label 3300 8450 3    50   ~ 0
 D11
+Text Label 1200 10400 2    50   ~ 0
+a0
+Text Label 1200 10500 2    50   ~ 0
+a1
+Text Label 1200 10600 2    50   ~ 0
+a2
+Text Label 1200 10700 2    50   ~ 0
+a3
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 5EDDD915
+P 1100 10000
+F 0 "J3" H 1180 9992 50  0000 L CNN
+F 1 "Conn_01x04" H 1180 9901 50  0000 L CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical" H 1100 10000 50  0001 C CNN
+F 3 "~" H 1100 10000 50  0001 C CNN
+	1    1100 10000
+	1    0    0    -1  
+$EndComp
+Text Label 900  9900 2    50   ~ 0
+a0
+Text Label 900  10000 2    50   ~ 0
+a1
+Text Label 900  10100 2    50   ~ 0
+a2
+Text Label 900  10200 2    50   ~ 0
+a3
+Text Label 21100 7600 0    50   ~ 0
+DR0
+Text Label 21100 7700 0    50   ~ 0
+DR1
+Text Label 21100 7800 0    50   ~ 0
+DR2
+Text Label 21100 7900 0    50   ~ 0
+DR3
+Text Label 21100 8000 0    50   ~ 0
+DR4
+Text Label 21100 8100 0    50   ~ 0
+DR5
+Text Label 21100 8200 0    50   ~ 0
+DR6
+Text Label 21100 8300 0    50   ~ 0
+DR7
+Text Label 21100 9000 0    50   ~ 0
+DR8
+Text Label 21100 9100 0    50   ~ 0
+DR9
+Text Label 21100 9200 0    50   ~ 0
+DR10
+Text Label 21100 9300 0    50   ~ 0
+DR11
+$Comp
+L Connector_Generic:Conn_01x04 J2
+U 1 1 5F5C59D5
+P 21750 9100
+F 0 "J2" H 21830 9092 50  0000 L CNN
+F 1 "Conn_01x04" H 21830 9001 50  0000 L CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x04_P2.00mm_Vertical" H 21750 9100 50  0001 C CNN
+F 3 "~" H 21750 9100 50  0001 C CNN
+	1    21750 9100
+	1    0    0    -1  
+$EndComp
+Text Label 21550 9000 2    50   ~ 0
+DR8
+Text Label 21550 9100 2    50   ~ 0
+DR9
+Text Label 21550 9200 2    50   ~ 0
+DR10
+Text Label 21550 9300 2    50   ~ 0
+DR11
+$Comp
+L Connector_Generic:Conn_01x08 J1
+U 1 1 5F77B9DB
+P 21700 7900
+F 0 "J1" H 21780 7892 50  0000 L CNN
+F 1 "Conn_01x08" H 21780 7801 50  0000 L CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical" H 21700 7900 50  0001 C CNN
+F 3 "~" H 21700 7900 50  0001 C CNN
+	1    21700 7900
+	1    0    0    -1  
+$EndComp
+Text Label 21500 7600 2    50   ~ 0
+DR0
+Text Label 21500 7700 2    50   ~ 0
+DR1
+Text Label 21500 7800 2    50   ~ 0
+DR2
+Text Label 21500 7900 2    50   ~ 0
+DR3
+Text Label 21500 8000 2    50   ~ 0
+DR4
+Text Label 21500 8100 2    50   ~ 0
+DR5
+Text Label 21500 8200 2    50   ~ 0
+DR6
+Text Label 21500 8300 2    50   ~ 0
+DR7
 Wire Bus Line
 	20100 7050 20100 9200
 Wire Bus Line
