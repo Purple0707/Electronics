@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name myFootprint)(type KiCad)(uri ${KIHOME}/TD8/myFootprint.pretty)(options "")(descr ""))
-)
