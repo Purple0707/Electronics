@@ -324,57 +324,9 @@ Wire Wire Line
 	20700 9700 20700 10000
 Connection ~ 20700 9000
 Wire Wire Line
-	20200 7600 20300 7600
-Wire Wire Line
-	20200 7700 20300 7700
-Wire Wire Line
-	20200 7800 20300 7800
-Wire Wire Line
-	20200 7900 20300 7900
-Wire Wire Line
-	20200 8000 20300 8000
-Wire Wire Line
-	20200 8100 20300 8100
-Wire Wire Line
-	20200 8200 20300 8200
-Wire Wire Line
-	20200 8300 20300 8300
-Wire Wire Line
 	20200 9300 20300 9300
-Text Label 20200 7600 0    50   ~ 0
-D0
-Text Label 20200 7700 0    50   ~ 0
-D1
-Text Label 20200 7800 0    50   ~ 0
-D2
-Text Label 20200 7900 0    50   ~ 0
-D3
-Text Label 20200 8000 0    50   ~ 0
-D4
-Text Label 20200 8100 0    50   ~ 0
-D5
-Text Label 20200 8200 0    50   ~ 0
-D6
-Text Label 20200 8300 0    50   ~ 0
-D7
 Text Label 20200 9300 0    50   ~ 0
 D11
-Entry Wire Line
-	20100 7500 20200 7600
-Entry Wire Line
-	20100 7600 20200 7700
-Entry Wire Line
-	20100 7700 20200 7800
-Entry Wire Line
-	20100 7800 20200 7900
-Entry Wire Line
-	20100 7900 20200 8000
-Entry Wire Line
-	20100 8000 20200 8100
-Entry Wire Line
-	20100 8100 20200 8200
-Entry Wire Line
-	20100 8200 20200 8300
 NoConn ~ 21100 9400
 NoConn ~ 21100 9500
 NoConn ~ 21100 9600
@@ -812,26 +764,6 @@ F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 21030 715
 F 3 "~" H 21100 7150 50  0001 C CNN
 	1    21100 7150
 	0    1    1    0   
-$EndComp
-Connection ~ 20100 7050
-Wire Wire Line
-	20700 7600 20700 7950
-Wire Wire Line
-	20700 7550 20700 7600
-Connection ~ 20700 7600
-$Comp
-L CD74HCxx:CD74HC540 U?
-U 1 1 5FD3D084
-P 20700 8100
-AR Path="/601A60D3/5FD3D084" Ref="U?"  Part="1" 
-AR Path="/5FD3D084" Ref="U1"  Part="1" 
-AR Path="/5FCF36BF/5FD3D084" Ref="U18"  Part="1" 
-F 0 "U1" H 20700 8825 50  0000 C CNN
-F 1 "CD74HC540" H 20700 8734 50  0000 C CNN
-F 2 "myFootprint:myDIP_20" H 20700 8100 50  0001 C CNN
-F 3 "" H 20700 8100 50  0000 C CNN
-	1    20700 8100
-	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1600 10600 1200 10600
@@ -3449,11 +3381,6 @@ Wire Wire Line
 Wire Wire Line
 	4550 9350 4550 9850
 Wire Wire Line
-	20700 8250 20700 8600
-Connection ~ 20700 8600
-Wire Wire Line
-	20700 8600 20700 8800
-Wire Wire Line
 	1500 11000 1500 11550
 Wire Wire Line
 	1950 11100 1950 11550
@@ -3465,13 +3392,86 @@ Wire Wire Line
 	1500 11550 1500 11800
 Wire Wire Line
 	1950 9750 1950 10800
-Wire Bus Line
-	20100 7050 20100 9200
-Wire Bus Line
-	20750 5950 20750 7050
+Connection ~ 1950 9750
+Connection ~ 20700 8600
+Wire Wire Line
+	20700 8600 20700 8800
+Wire Wire Line
+	20700 8250 20700 8600
+Connection ~ 20700 7600
+Wire Wire Line
+	20700 7550 20700 7600
+Connection ~ 20100 7050
 Wire Bus Line
 	3200 5150 20100 5150
 Wire Bus Line
+	20750 5950 20750 7050
+Wire Bus Line
 	3200 8550 19450 8550
-Connection ~ 1950 9750
+Wire Wire Line
+	20700 7600 20700 7950
+Wire Bus Line
+	20100 7050 20100 9200
+$Comp
+L CD74HCxx:CD74HC540 U?
+U 1 1 5FD3D084
+P 20700 8100
+AR Path="/601A60D3/5FD3D084" Ref="U?"  Part="1" 
+AR Path="/5FD3D084" Ref="U1"  Part="1" 
+AR Path="/5FCF36BF/5FD3D084" Ref="U18"  Part="1" 
+F 0 "U1" H 20700 8825 50  0000 C CNN
+F 1 "CD74HC540" H 20700 8734 50  0000 C CNN
+F 2 "myFootprint:myDIP_20" H 20700 8100 50  0001 C CNN
+F 3 "" H 20700 8100 50  0000 C CNN
+	1    20700 8100
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	20100 8200 20200 8300
+Entry Wire Line
+	20100 8100 20200 8200
+Entry Wire Line
+	20100 8000 20200 8100
+Entry Wire Line
+	20100 7900 20200 8000
+Entry Wire Line
+	20100 7800 20200 7900
+Entry Wire Line
+	20100 7700 20200 7800
+Entry Wire Line
+	20100 7600 20200 7700
+Entry Wire Line
+	20100 7500 20200 7600
+Text Label 20200 8300 0    50   ~ 0
+D7
+Text Label 20200 8200 0    50   ~ 0
+D6
+Text Label 20200 8100 0    50   ~ 0
+D5
+Text Label 20200 8000 0    50   ~ 0
+D4
+Text Label 20200 7900 0    50   ~ 0
+D3
+Text Label 20200 7800 0    50   ~ 0
+D2
+Text Label 20200 7700 0    50   ~ 0
+D1
+Text Label 20200 7600 0    50   ~ 0
+D0
+Wire Wire Line
+	20200 8300 20300 8300
+Wire Wire Line
+	20200 8200 20300 8200
+Wire Wire Line
+	20200 8100 20300 8100
+Wire Wire Line
+	20200 8000 20300 8000
+Wire Wire Line
+	20200 7900 20300 7900
+Wire Wire Line
+	20200 7800 20300 7800
+Wire Wire Line
+	20200 7700 20300 7700
+Wire Wire Line
+	20200 7600 20300 7600
 $EndSCHEMATC
