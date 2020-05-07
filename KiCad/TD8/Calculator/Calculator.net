@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\awaaw\Documents\GitHub\Electronics\KiCad\TD8\Calculator\Calculator.sch)
-    (date "2020/03/04 10:30:10")
+    (date "2020/04/30 20:37:01")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

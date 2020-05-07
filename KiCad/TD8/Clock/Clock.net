@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\awaaw\Documents\GitHub\Electronics\KiCad\TD8\Clock\Clock.sch)
-    (date "2020/04/21 10:34:21")
+    (date "2020/04/24 20:15:25")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
